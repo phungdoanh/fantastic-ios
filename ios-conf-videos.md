@@ -7,7 +7,7 @@
 * [WWDC 2015](https://developer.apple.com/videos/wwdc/2015)
 
 ### NSLondon
-* [](http://vimeopro.com/user20904333/nslondon)
+* [Video](http://vimeopro.com/user20904333/nslondon)
 
 ### NSScotland
 * [2013](https://vimeo.com/album/2636910)
@@ -17,7 +17,7 @@
 * [2014](https://www.youtube.com/playlist?list=PLm28FNuQs3O7SDszZCrOcngLOgtUu6nci)
 
 ### AltConf
-* [](https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/playlists)
+* [Video](https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/playlists)
 
 ### UIKonf
 * [2013](https://www.youtube.com/playlist?list=PLdr22uU_wISruLvW5HhcbwbtkZ5w6hguY)
@@ -25,7 +25,7 @@
 * [2015](https://www.youtube.com/playlist?list=PLdr22uU_wISpW6XI1J0S7Lp-X8Km-HaQW)
 
 ### PragmaMark
-* [](https://www.youtube.com/user/pragmamark)
+* [Video](https://www.youtube.com/user/pragmamark)
 
 ### Çingleton
 * [3](https://vimeo.com/channels/637623)
@@ -36,16 +36,16 @@
 * [7](https://vimeo.com/channels/nsconf7)
 
 ### Functional Swift
-* [](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
+* [Video](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
 
 ### dot Swift
 * [2015](http://www.thedotpost.com/conference/dotswift-2015)
 
 ### Swift Summit
-* [](https://realm.io/news/swift-summit/)
+* [Video](https://realm.io/news/swift-summit/)
 
 ### MCE - Mobile Central Europe
-* [](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ)
+* [Video](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ)
 
 ### Reactive Cocoa Developer Conference
 * [2014](https://vimeo.com/album/2916562)
