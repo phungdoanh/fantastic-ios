@@ -13,6 +13,17 @@
 * [2013](https://vimeo.com/album/2636910)
 * [2014](https://vimeo.com/album/3132071)
 
+### NSNorth
+* [2013](https://vimeo.com/channels/nsnorth2013)
+* [2014](https://vimeo.com/channels/nsnorth2014)
+
+### NSSpain
+* [2014](https://vimeo.com/user32858286)
+
+### 360iDev
+* [2013](http://vimeopro.com/360conferences/360idev-2013)
+* [2014](http://vimeopro.com/360conferences/360idev-2014)
+
 ### ⌘R Conf
 * [2014](https://www.youtube.com/playlist?list=PLm28FNuQs3O7SDszZCrOcngLOgtUu6nci)
 
