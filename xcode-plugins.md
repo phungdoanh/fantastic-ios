@@ -18,6 +18,9 @@
 * [ACCodeSnippetRepositoryPlugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin)
 > A plugin for Xcode to synchronize code snippets with repositories
 
+* [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
+> Xcode plug-in which helps you write Javadoc style documents easier.
+
 * [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode)
 > Xcode plug-in that provides autocomplete for imageNamed: calls
 
