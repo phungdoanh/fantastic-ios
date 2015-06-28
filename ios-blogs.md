@@ -13,5 +13,6 @@
 * [Inessential](http://inessential.com/)
 * [Alberto De Bortoli](http://albertodebortoli.github.io/blog/archives/)
 * [Paul Samuel](http://paul-samuels.com/)
+* [Erica Sadun](http://ericasadun.com/)
 * [The Traveled iOS Developer’s Guide](https://medium.com/the-traveled-ios-developers-guide)
 * [iOS Apprentice](https://medium.com/ios-apprentice)
