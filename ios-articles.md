@@ -49,3 +49,9 @@
 * [AWPagedArray](https://github.com/MrAlek/AWPagedArray)
 * [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager)
 * [Nestable](http://khanlou.com/2015/04/nestable/)
+
+### Networking
+* [Networking, more like not working](http://khanlou.com/2015/05/networking/)
+
+### Model
+* [Improving Immutable Object Initialization in Objective-C](http://holko.pl/2015/05/12/immutable-object-initialization/)
