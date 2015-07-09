@@ -32,3 +32,6 @@
 
 * [KSHObjcUML](https://github.com/kimsungwhee/KSHObjcUML)
 > KSHObjcUML can show oriented graph of dependencies between Objective-C classes in your project
+
+* [CATweaker](https://github.com/keefo/CATweaker)
+* > A helper tool and an Xcode plugin for creating beautiful CAMediaTimingFunction curve
