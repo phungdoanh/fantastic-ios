@@ -40,12 +40,12 @@
 * [Video](https://www.youtube.com/user/pragmamark)
 
 ### Çingleton
-* [3](https://vimeo.com/channels/637623)
-* [4](https://vimeo.com/channels/858894)
+* [2013](https://vimeo.com/channels/637623)
+* [2014](https://vimeo.com/channels/858894)
 
 ### NSConference
-* [6](https://vimeo.com/channels/nsconf6)
-* [7](https://vimeo.com/channels/nsconf7)
+* [2014](https://vimeo.com/channels/nsconf6)
+* [2015](https://vimeo.com/channels/nsconf7)
 
 ### Functional Swift
 * [Video](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
