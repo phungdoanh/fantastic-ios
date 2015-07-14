@@ -29,7 +29,8 @@
 * [2014](https://www.youtube.com/playlist?list=PLm28FNuQs3O7SDszZCrOcngLOgtUu6nci)
 
 ### AltConf
-* [Video](https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/playlists)
+* [2014](https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/playlists)
+* [2015](https://realm.io/altconf/)
 
 ### UIKonf
 * [2013](https://www.youtube.com/playlist?list=PLdr22uU_wISruLvW5HhcbwbtkZ5w6hguY)
