@@ -34,4 +34,10 @@
 > KSHObjcUML can show oriented graph of dependencies between Objective-C classes in your project
 
 * [CATweaker](https://github.com/keefo/CATweaker)
-* > A helper tool and an Xcode plugin for creating beautiful CAMediaTimingFunction curve
+> A helper tool and an Xcode plugin for creating beautiful CAMediaTimingFunction curve
+
+* [AdjustFontSize-Xcode-Plugin](https://github.com/zats/AdjustFontSize-Xcode-Plugin)
+> Instant font size adjustment with ⌘ + / ⌘ -
+
+* [deriveddata-exterminator](https://github.com/kattrali/deriveddata-exterminator)
+> A magic button in Xcode to exterminate the current project's DerivedData directories
