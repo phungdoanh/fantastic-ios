@@ -1,0 +1,8 @@
+* [Introduction to VIPER[(http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
+* [Architecting iOS Apps with VIPER](http://www.objc.io/issues/13-architecture/viper/)
+* [Brigade’s Experience Using an MVC Alternative](https://medium.com/brigade-engineering/brigades-experience-using-an-mvc-alternative-36ef1601a41f)
+* [First Observations on TDD with VIPER](http://iosunittesting.com/tdd-with-viper/)
+* [Building Modular iOS Apps](https://realm.io/news/modular-ios-apps/)
+* [iPhreaks Show – VIPER with Conrad Stoll and Jeff Gilbert](http://devchat.tv/iphreaks/064-iphreaks-show-viper-with-conrad-stoll-and-jeff-gilbert)
+* [Clean Architecture - VIPER by Redbooth](https://www.youtube.com/watch?v=OX4rLAJC7lw)
+* [250 Days Shipping With Swift and VIPER](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
