@@ -1,4 +1,4 @@
-* [Introduction to VIPER[(http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
+* [Introduction to VIPER](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
 * [Architecting iOS Apps with VIPER](http://www.objc.io/issues/13-architecture/viper/)
 * [Brigade’s Experience Using an MVC Alternative](https://medium.com/brigade-engineering/brigades-experience-using-an-mvc-alternative-36ef1601a41f)
 * [First Observations on TDD with VIPER](http://iosunittesting.com/tdd-with-viper/)
