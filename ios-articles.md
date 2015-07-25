@@ -16,6 +16,7 @@
 * [NSNotificationCenter with blocks considered harmful](http://sealedabstract.com/code/nsnotificationcenter-with-blocks-considered-harmful/)
 * [Switching on Objects in Objective-C](http://www.dudas.co.uk/switching-on-objects-in-objective-c/)
 * [OCUDL in Depth](http://dbachrach.com/posts/ocudl-in-depth/)
+* [Namespaced Constants and Functions](https://www.mikeash.com/pyblog/friday-qa-2011-08-19-namespaced-constants-and-functions.html)
 
 ### App
 * [Developing a Bidding Kiosk for iOS in Swift](http://artsy.github.io/blog/2014/11/13/eidolon-retrospective/)
