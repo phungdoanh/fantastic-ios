@@ -49,6 +49,7 @@
 * [AWPagedArray](https://github.com/MrAlek/AWPagedArray)
 * [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager)
 * [Nestable](http://khanlou.com/2015/04/nestable/)
+* [Advanced UITableViews Made Simple: YLTableView](http://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
 
 ### Networking
 * [Networking, more like not working](http://khanlou.com/2015/05/networking/)
