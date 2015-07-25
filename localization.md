@@ -1,0 +1,7 @@
+* [Advance Localization in ios apps](http://learning-ios.blogspot.com/2011/04/advance-localization-in-ios-apps.html)
+* [Multiple Localizable.strings files in one iOS app](http://stackoverflow.com/questions/4811745/multiple-localizable-strings-files-in-one-ios-app)
+* [iOS Localization Tutorial: Localize Your Apps to Support Multiple Languages](http://www.appcoda.com/ios-programming-tutorial-localization-apps/)
+* [String Localization](http://www.objc.io/issues/9-strings/string-localization/)
+* [Everything About iOS Localization](http://samwize.com/2014/04/10/everything-about-ios-localization/)
+* [Automating Strings Extraction From Storyboards for Localization](http://oleb.net/blog/2013/02/automating-strings-extraction-from-storyboards-for-localization/)
+* [Working with Localization](https://medium.com/ios-apprentice/working-with-localization-905e4052b9de)
