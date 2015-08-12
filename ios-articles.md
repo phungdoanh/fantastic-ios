@@ -24,7 +24,7 @@
 
 ### Performance
 * [Mastering UIKit Performance](https://yalantis.com/blog/mastering-uikit-performance/)
-* [Performance Tips](https://developer.apple.com/library/prerelease/ios/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/PerformanceTips/PerformanceTips.html#//apple_ref/doc/uid/20001987-99732)
+* [File System Programming Guide Performance Tips](https://developer.apple.com/library/prerelease/ios/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/PerformanceTips/PerformanceTips.html#//apple_ref/doc/uid/20001987-99732)
 
 ### Architecture
 * [Flow Controllers on iOS for a Better Navigation Control](http://albertodebortoli.github.io/blog/2014/09/03/flow-controllers-on-ios-for-a-better-navigation-control/)
