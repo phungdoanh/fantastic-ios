@@ -1,6 +1,7 @@
 ## Website and Blogs
 
 * [objc.io](http://www.objc.io/)
+* [NSHint](http://nshint.io/)
 * [NSHipster](http://nshipster.com/)
 * [Raywenderlich](http://www.raywenderlich.com/)
 * [iOS SDK Tutsplus](http://code.tutsplus.com/categories/ios-sdk)
