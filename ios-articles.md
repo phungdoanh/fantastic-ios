@@ -18,6 +18,7 @@
 * [OCUDL in Depth](http://dbachrach.com/posts/ocudl-in-depth/)
 * [Namespaced Constants and Functions](https://www.mikeash.com/pyblog/friday-qa-2011-08-19-namespaced-constants-and-functions.html)
 * [Energy Efficiency Guide for iOS Apps](https://developer.apple.com/library/prerelease/ios/documentation/Performance/Conceptual/EnergyGuide-iOS/AvoidExtraneousGraphicsAndAnimations.html#//apple_ref/doc/uid/TP40015243-CH19-SW1)
+* [Perfect smooth scrolling in UITableView](https://medium.com/ios-os-x-development/perfect-smooth-scrolling-in-uitableviews-fd609d5275a5)
 
 ### App
 * [Developing a Bidding Kiosk for iOS in Swift](http://artsy.github.io/blog/2014/11/13/eidolon-retrospective/)
