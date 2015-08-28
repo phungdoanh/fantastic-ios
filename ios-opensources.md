@@ -9,6 +9,9 @@
 * [eigen](https://github.com/artsy/eigen)
 > The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app. http://iphone.artsy.net
 
+* [energy](https://github.com/artsy/energy)
+> Artsy Folio, The Partner iPhone / iPad app.
+
 * [KirKos](https://github.com/RuiAAPeres/KirKos)
 > Focus on the most important
 
