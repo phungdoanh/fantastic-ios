@@ -4,5 +4,5 @@
 
 ## Release Notes
 * [Xcode](https://developer.apple.com/library/mac/releasenotes/DeveloperTools/RN-Xcode/Chapters/Introduction.html)
-* [8.0](https://developer.apple.com/library/prerelease/ios/releasenotes/General/RN-iOSSDK-8.0/)
-* [9.0](https://developer.apple.com/library/prerelease/ios/releasenotes/General/RN-iOSSDK-9.0/)
+* [iOS 8.0](https://developer.apple.com/library/prerelease/ios/releasenotes/General/RN-iOSSDK-8.0/)
+* [iOS 9.0](https://developer.apple.com/library/prerelease/ios/releasenotes/General/RN-iOSSDK-9.0/)
