@@ -41,3 +41,9 @@
 
 * [deriveddata-exterminator](https://github.com/kattrali/deriveddata-exterminator)
 > A magic button in Xcode to exterminate the current project's DerivedData directories
+
+* [DCLazyInstantiate](https://github.com/youweit/DCLazyInstantiate)
+> Generates lazy property for you!
+
+* [XToDo](https://github.com/trawor/XToDo)
+> Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`
