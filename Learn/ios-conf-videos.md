@@ -62,6 +62,9 @@
 ### Swift Summit
 * [Video](https://realm.io/news/swift-summit/)
 
+### CocoaLove
+* [2014](https://vimeo.com/channels/cocoalove2014)
+
 ### MCE - Mobile Central Europe
 * [Video](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ)
 
