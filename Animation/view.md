@@ -1,9 +1,4 @@
-[ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
+[BAFluidView](https://github.com/antiguab/BAFluidView)
 --
-UILabel replacement with fine-grain appear/disappear animation
-![](https://camo.githubusercontent.com/96095320002c92104f5f289df902e18f11910bd5/687474703a2f2f7a697070792e6766796361742e636f6d2f4c696d69746564576967676c794765726d616e73686570686572642e676966)
-
-[TOMSMorphingLabel](https://github.com/tomknig/TOMSMorphingLabel)
---
-Configurable morphing transitions between text values of a label.
-![](https://github.com/tomknig/TOMSMorphingLabel/raw/master/demo.gif)
+UIView that simulates a 2D view of a fluid in motion
+![](https://github.com/antiguab/BAFluidView/raw/master/readmeAssets/example6.gif)
