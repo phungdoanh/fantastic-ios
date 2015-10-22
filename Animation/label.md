@@ -9,3 +9,9 @@
 > Configurable morphing transitions between text values of a label.
 
 ![](https://github.com/tomknig/TOMSMorphingLabel/raw/master/demo.gif)
+
+[Preloader.Ophiuchus](https://github.com/Yalantis/Preloader.Ophiuchus)
+--
+> Custom Label to apply animations on whole text or letters
+
+![](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/yalantistwodirections.gif)
