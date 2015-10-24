@@ -71,4 +71,7 @@
 > The Tutorial Conference
 
 * [JailbreakCon (WWJC)](http://www.jailbreakcon.com/)
-> JailbreakCon (WWJC) is the only event of its kind: where the iOS jailbreaking community gathers to meet each other in real life and talk about the iOS devices, jailbreak exploits, extensions (tweaks), and themes that we lov
+> JailbreakCon (WWJC) is the only event of its kind: where the iOS jailbreaking community gathers to meet each other in real life and talk about the iOS devices, jailbreak exploits, extensions (tweaks), and themes that we love
+
+* [iOS Conf Singapore](http://iosconf.sg/)
+> The conference is organized by local iOS developer group called, iOS Dev Scout. In iOS Dev Scout meetups iOS developers meet every month to discuss about latest and greates iOS tools and technologies
