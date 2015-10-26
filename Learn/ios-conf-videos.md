@@ -65,6 +65,9 @@
 ### CocoaLove
 * [2014](https://vimeo.com/channels/cocoalove2014)
 
+### iOS Conf Singapore
+* [2015](https://www.youtube.com/channel/UCUwelGOCK00mp8j241tFbeg)
+
 ### MCE - Mobile Central Europe
 * [Video](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ)
 
