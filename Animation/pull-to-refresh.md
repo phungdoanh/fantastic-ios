@@ -22,3 +22,8 @@
 
 ![](https://camo.githubusercontent.com/3a5c5c2468d45beb7e636013b32cb971cc48bde2/687474703a2f2f692e696d6775722e636f6d2f636468376556452e676966)
 
+[DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)
+--
+> Elastic pull to refresh for iOS developed in Swift
+
+![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
