@@ -3,6 +3,7 @@
 
 * [Pod5](http://pod5.io)
 * [NSBrief](http://nsbrief.com)
+* [Release Notes](http://releasenotes.tv/)
 * [Core Intuition](http://www.coreint.org)
 * [iPhreaksShow](http://iphreaksshow.com)
 * [Thoughtbot Build Phase](http://podcasts.thoughtbot.com/buildphase/)
