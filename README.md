@@ -23,6 +23,10 @@ Learn
 - [Screencasts](Learn/ios-screncast.md)
 - [Technotes](Learn/ios-technotes.md)
 
+Libraries :rocket:
+--
+- [Libraries](Tool/ios-libraries.md)
+
 Animation :clapper:
 --
 - [UI](Animation/ui.md)
@@ -64,7 +68,6 @@ Topics
 
 Tool
 --
-- [Libraries :rocket:](Tool/ios-libraries.md)
 - [Toolbox](Tool/ios-toolbox.md)
 - [Tools :bulb:](Tool/tools.md)
 - [Xcode Plugins :computer:](Tool/xcode-plugins.md)
