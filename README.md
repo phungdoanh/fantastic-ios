@@ -8,9 +8,9 @@ Learn
 --
 - [Articles](Learn/ios-articles.md)
 - [Blogs](Learn/ios-blogs.md)
-- [Books](Learn/ios-books.md)
-- [Course](Learn/course.md)
-- [Videos](Learn/ios-conf-videos.md)
+- [Books :books:](Learn/ios-books.md)
+- [Course :mortar_board:](Learn/course.md)
+- [Videos :video_camera:](Learn/ios-conf-videos.md)
 - [Conferences](Learn/ios-conferences.md)
 - [Developers on Stackoverflow](Learn/ios-developer-stackoverflow.md)
 - [Developers on Twitter](Learn/ios-developer-twitter.md)
@@ -49,7 +49,7 @@ Tool
 - [Xcode Plugins](Tool/xcode-plugins.md)
 - [Xcode Shortcuts](Tool/xcode-shortcuts.md)
 
-Animation
+Animation :clapper:
 --
 - [UI](Animation/ui.md)
 - [Transition](Animation/transition.md)
@@ -66,3 +66,6 @@ Animation
 - [Pull To Refresh](Animation/pull-to-refresh.md)
 - [Tutorial](Animation/tutorial.md)
 - [Card](Animation/card.md)
+- [Gallery](Animation/gallery.md)
+- [Popup](Animation/popup.md)
+- [Tabbar](Animation/tabbar.md)
