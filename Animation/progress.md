@@ -15,3 +15,9 @@
 > Spinner loader components with liquid animation
 
 ![](https://github.com/yoavlt/LiquidLoader/raw/master/Demo/grow-circle.gif?raw=true)
+
+[GaugeKit](https://github.com/skywinder/GaugeKit)
+--
+> Kit for building custom gauges + easy reproducible Apple's style ring gauges.
+
+![](https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/gauge.gif)
