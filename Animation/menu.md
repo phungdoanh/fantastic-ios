@@ -32,3 +32,12 @@ You can easily add awesome animated context menu to your app
 > iOS 7/8 style side menu with parallax effect.
 
 ![](https://raw.githubusercontent.com/romaonthego/RESideMenu/master/Demo.gif?2)
+
+[PopMenu](https://github.com/xhzengAIB/PopMenu)
+--
+> PopMenu is pop animation menu inspired by Sina weibo / NetEase app.
+
+![](https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/XHSinaMenuViewExample.gif)
+
+[]()
+--
