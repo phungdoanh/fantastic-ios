@@ -15,3 +15,9 @@
 > Custom Label to apply animations on whole text or letters
 
 ![](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/yalantistwodirections.gif)
+
+[RQShineLabel](https://github.com/zipme/RQShineLabel)
+--
+> Secret app like text animation
+
+![](https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif)
