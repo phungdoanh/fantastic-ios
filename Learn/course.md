@@ -1,3 +1,6 @@
+Course
+--
+
 - [Teaching App Development with Swift](https://swifteducation.github.io/teaching_app_development_with_swift/)
 - [Developing iOS 8 Apps with Swift](http://itunes.com/stanfordswift/)
 - [The iOS Apprentice](http://www.raywenderlich.com/store/ios-apprentice)
