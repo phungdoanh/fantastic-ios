@@ -1,4 +1,4 @@
-[https://github.com/wendyabrantes/WACustomSwitch](WACustomSwitch)
+[WACustomSwitch](https://github.com/wendyabrantes/WACustomSwitch)
 --
 > WACustomSwitch is custom component that allow user to create complex switch animation.
 
