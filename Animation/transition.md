@@ -52,11 +52,11 @@
 
 ![]()
 
-[]()
+[AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery)
 --
-> 
+> A gallery app of custom animated transitions for iOS 7.
 
-![]()
+![](https://github.com/shu223/AnimatedTransitionGallery/raw/master/gallery.gif)
 
 []()
 --
