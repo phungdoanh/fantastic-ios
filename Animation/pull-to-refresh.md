@@ -33,3 +33,9 @@
 > A custom animation for the UIRefreshControl
 
 ![](https://raw.githubusercontent.com/andreamazz/GearRefreshControl/master/assets/screenshot.gif)
+
+[mntpulltoreact](https://github.com/mentionapp/mntpulltoreact)
+--
+> One gesture, many actions. An evolution of Pull to Refresh
+
+![](https://raw.githubusercontent.com/mentionapp/mntpulltoreact/master/README/mention-example.gif)
