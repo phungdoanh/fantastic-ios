@@ -27,3 +27,9 @@
 > Elastic pull to refresh for iOS developed in Swift
 
 ![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
+
+[GearRefreshControl](https://github.com/andreamazz/GearRefreshControl)
+--
+> A custom animation for the UIRefreshControl
+
+![](https://raw.githubusercontent.com/andreamazz/GearRefreshControl/master/assets/screenshot.gif)
