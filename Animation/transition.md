@@ -63,3 +63,9 @@
 > 3D push transition
 
 ![](https://github.com/KittenYang/KYPushTransition/raw/master/demo.gif)
+
+[RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator)
+--
+> A custom zooming transition animation for UIViewController
+
+![](https://github.com/recruit-mp/RMPZoomTransitionAnimator/raw/master/docs/collectionview.gif)
