@@ -43,10 +43,10 @@ Topics
 
 Tool
 --
-- [Libraries](Tool/ios-libraries.md)
+- [Libraries :rocket:](Tool/ios-libraries.md)
 - [Toolbox](Tool/ios-toolbox.md)
-- [Tools](Tool/tools.md)
-- [Xcode Plugins](Tool/xcode-plugins.md)
+- [Tools :bulb:](Tool/tools.md)
+- [Xcode Plugins :computer:](Tool/xcode-plugins.md)
 - [Xcode Shortcuts](Tool/xcode-shortcuts.md)
 
 Animation :clapper:
