@@ -17,3 +17,9 @@
 
 * [Parse-SDK-iOS-OSX](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX)
 > Parse SDK for iOS/OS X
+
+* [Ripple](https://github.com/MengTo/Ripple)
+> Learn Xcode as a designer.
+
+* [HackerNewsReader](https://github.com/rnystrom/HackerNewsReader)
+> A small, read-only app for Hacker News.
