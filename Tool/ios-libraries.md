@@ -62,3 +62,13 @@
 ### Sliding menu
 * [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)
 > A lightweight, easy to use, Side Drawer Navigation Controller
+
+### Data manipulation
+* [Underscore.m](https://github.com/robb/Underscore.m)
+> A DSL for Data Manipulation
+
+* [ObjectiveSugar](https://github.com/supermarin/objectivesugar)
+> ObjectiveC additions for humans. Ruby style.
+
+* [Dollar.swift](https://github.com/ankurp/Dollar.swift)
+> A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript
