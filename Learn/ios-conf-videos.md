@@ -26,6 +26,7 @@
 * [2013](http://vimeopro.com/360conferences/360idev-2013)
 * [2014](http://vimeopro.com/360conferences/360idev-2014)
 * [2015](https://vimeopro.com/360conferences/360idev-2015)
+* [min](https://vimeopro.com/360conferences/360idev-min/video/142320065)
 
 ### ⌘R Conf
 * [2014](https://www.youtube.com/playlist?list=PLm28FNuQs3O7SDszZCrOcngLOgtUu6nci)
