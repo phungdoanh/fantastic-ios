@@ -12,9 +12,6 @@
 * [energy](https://github.com/artsy/energy)
 > Artsy Folio, The Partner iPhone / iPad app.
 
-* [KirKos](https://github.com/RuiAAPeres/KirKos)
-> Focus on the most important
-
 * [Parse-SDK-iOS-OSX](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX)
 > Parse SDK for iOS/OS X
 
