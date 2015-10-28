@@ -57,11 +57,11 @@
 
 ### Logging
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
-> A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+> Fast & simple, yet powerful & flexible logging framework for Mac and iOS
 
 ### Sliding menu
 * [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)
-> A lightweight, easy to use, Side Drawer Navigation Controller
+> Lightweight, easy to use, Side Drawer Navigation Controller
 
 ### Data manipulation
 * [Underscore.m](https://github.com/robb/Underscore.m)
