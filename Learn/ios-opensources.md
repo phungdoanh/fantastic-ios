@@ -12,6 +12,9 @@
 * [energy](https://github.com/artsy/energy)
 > Artsy Folio, The Partner iPhone / iPad app.
 
+* [Emergence](https://github.com/artsy/Emergence)
+> TV Shows
+
 * [Parse-SDK-iOS-OSX](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX)
 > Parse SDK for iOS/OS X
 
