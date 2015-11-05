@@ -43,6 +43,7 @@ Animation :clapper:
 - [Action Sheet](Animation/actionsheet.md)
 - [Pull To Refresh](Animation/pull-to-refresh.md)
 - [Tutorial](Animation/tutorial.md)
+- [Page Control](Animation/page-control.md)
 - [Card](Animation/card.md)
 - [Gallery](Animation/gallery.md)
 - [Popup](Animation/popup.md)
