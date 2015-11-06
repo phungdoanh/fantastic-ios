@@ -66,6 +66,8 @@ Topics
 - [Route](Topics/route.md)
 - [Swift](Topics/swift.md)
 - [VIPER Architecture](Topics/viper.md)
+- [Continuous Integration](Topics/ci.md)
+- [Hot fix](Topics/hotfix.md)
 
 Tool
 --
