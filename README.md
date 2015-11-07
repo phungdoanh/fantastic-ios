@@ -68,6 +68,7 @@ Topics
 - [VIPER Architecture](Topics/viper.md)
 - [Continuous Integration](Topics/ci.md)
 - [Hot fix](Topics/hotfix.md)
+- [Chat](Topics/chat.md)
 
 Tool
 --
