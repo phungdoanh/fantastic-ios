@@ -23,3 +23,6 @@
 
 * [HackerNewsReader](https://github.com/rnystrom/HackerNewsReader)
 > A small, read-only app for Hacker News.
+
+* [BackchannelSDK-iOS](https://github.com/backchannel/BackchannelSDK-iOS)
+> The official iOS SDK for Backchannel. https://backchannel.io
