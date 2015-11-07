@@ -7,6 +7,8 @@
 > OCLint is a static code analysis tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code and looking for potential problems
 * [Faux pas](http://fauxpasapp.com/)
 > Faux Pas inspects your iOS or Mac app’s Xcode project and warns about possible bugs, as well as about maintainability and style issues.
+* [SwiftLint](https://github.com/realm/SwiftLint)
+> A tool to enforce Swift style and conventions.
 
 ## Coding Standard
 * [Objective-Clean](http://objclean.com/index.php)
