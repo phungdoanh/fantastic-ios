@@ -21,3 +21,9 @@
 > Kit for building custom gauges + easy reproducible Apple's style ring gauges.
 
 ![](https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/gauge.gif)
+
+[HorizontalProgress](https://github.com/AliThink/HorizontalProgress)
+--
+> Simple horizontal progress bar with animation
+
+![](https://github.com/AliThink/HorizontalProgress/raw/master/HorizontalProgress-demo.gif)
