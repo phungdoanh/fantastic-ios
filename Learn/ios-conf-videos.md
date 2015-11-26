@@ -81,3 +81,7 @@
 
 ### Twitter Flight 
 * [2015 - Mobile Track](https://www.youtube.com/playlist?list=PLFKjcMIU2WsjRto4UpcU_k3ESIY-XOSi6)
+
+### LLVM Developers' Meeting
+* [2015](https://www.youtube.com/playlist?list=PL_R5A0lGi1AA4Lv2bBFSwhgDaHvvpVU21)
+* 
