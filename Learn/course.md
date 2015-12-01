@@ -11,3 +11,4 @@ Course
 - [Swifty Ninja](http://galibugs.com/swifty-ninja-jr/)
 - [iOS Programming Course](http://www.appcoda.com/ios-programming-course/)
 - [CodePath iOS](http://guides.codepath.com/ios)
+- [Swift-at-Artsy](https://github.com/orta/Swift-at-Artsy)
