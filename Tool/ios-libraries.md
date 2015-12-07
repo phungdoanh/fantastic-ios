@@ -72,3 +72,6 @@
 
 * [Dollar.swift](https://github.com/ankurp/Dollar.swift)
 > A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript
+
+* [Switfz](https://github.com/typelift/Swiftz)
+> Functional programming in Swift
