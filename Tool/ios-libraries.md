@@ -75,3 +75,7 @@
 
 * [Switfz](https://github.com/typelift/Swiftz)
 > Functional programming in Swift
+
+### Scripting
+* [Swiftline](https://github.com/Swiftline/Swiftline)
+> Swiftline is a set of tools to help you create command line applications.
