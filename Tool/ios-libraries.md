@@ -50,7 +50,7 @@
 > An extensible iOS and OS X animation library, useful for physics-based interactions.
 
 * [JazzHands](https://github.com/IFTTT/JazzHands)
-> A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.
+> A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros
 
 * [Spring](https://github.com/MengTo/Spring)
 > A library to simplify iOS animations in Swift
@@ -78,4 +78,4 @@
 
 ### Scripting
 * [Swiftline](https://github.com/Swiftline/Swiftline)
-> Swiftline is a set of tools to help you create command line applications.
+> Swiftline is a set of tools to help you create command line applications
