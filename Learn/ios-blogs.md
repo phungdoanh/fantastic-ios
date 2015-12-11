@@ -11,7 +11,6 @@
 * [Krzysztof Zabłocki](http://www.merowing.info/)
 * [Peter Steinberger](http://petersteinberger.com/)
 * [Ash Furrow](http://ashfurrow.com/)
-* [Inessential](http://inessential.com/)
 * [Alberto De Bortoli](http://albertodebortoli.github.io/blog/archives/)
 * [Paul Samuel](http://paul-samuels.com/)
 * [Erica Sadun](http://ericasadun.com/)
