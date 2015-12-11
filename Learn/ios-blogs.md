@@ -16,3 +16,7 @@
 * [Erica Sadun](http://ericasadun.com/)
 * [The Traveled iOS Developer’s Guide](https://medium.com/the-traveled-ios-developers-guide)
 * [iOS Apprentice](https://medium.com/ios-apprentice)
+
+## Engineering Blogs
+- [Artsy](http://artsy.github.io/)
+- [Badoo](https://techblog.badoo.com/)
