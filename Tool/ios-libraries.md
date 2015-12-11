@@ -79,3 +79,7 @@
 ### Scripting
 * [Swiftline](https://github.com/Swiftline/Swiftline)
 > Swiftline is a set of tools to help you create command line applications
+
+### Dependency Injection
+* [Dip](https://github.com/AliSoftware/Dip)
+> Simple Swift Dependency container. Use protocols to resolve your dependencies and avoid singletons / sharedInstances!
