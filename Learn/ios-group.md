@@ -4,3 +4,6 @@
 * [NSChat](http://chat.stackoverflow.com/rooms/15942/nschat)
 * [Swifters](https://swifters.slack.com/)
 * [iOS developer](https://ios-developers.slack.com/)
+
+## Community
+* [Skilled](http://www.skilled.io/)
