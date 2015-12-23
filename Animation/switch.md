@@ -15,3 +15,9 @@
 > An animate switch collection http://tbxark.github.io
 
 ![](https://github.com/TBXark/TKSwitcherCollection/raw/master/SwitcherCollection/gif.gif)
+
+[PMZSwitch](https://github.com/kovpas/PMZSwitch)
+--
+> Yet another animated toggle
+
+![](https://github.com/kovpas/PMZSwitch/raw/master/Assets/switch.gif)
