@@ -12,3 +12,5 @@ Course
 - [iOS Programming Course](http://www.appcoda.com/ios-programming-course/)
 - [CodePath iOS](http://guides.codepath.com/ios)
 - [Swift-at-Artsy](https://github.com/orta/Swift-at-Artsy)
+- [learn-swift](https://github.com/nettlep/learn-swift)
+- [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)
