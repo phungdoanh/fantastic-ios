@@ -70,6 +70,7 @@ Topics
 - [Continuous Integration](Topics/ci.md)
 - [Hot fix](Topics/hotfix.md)
 - [Chat](Topics/chat.md)
+- [Functional Programming](Topics/functional_programming.md)
 
 Tool
 --
