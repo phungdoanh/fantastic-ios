@@ -87,5 +87,5 @@
 ### LLVM Developers' Meeting
 * [2015](https://www.youtube.com/playlist?list=PL_R5A0lGi1AA4Lv2bBFSwhgDaHvvpVU21)
 
-## [Mobiconf]
+## Mobiconf
 * [2015](https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos)
