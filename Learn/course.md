@@ -2,7 +2,8 @@ Course
 --
 
 - [Teaching App Development with Swift](https://swifteducation.github.io/teaching_app_development_with_swift/)
-- [Developing iOS 8 Apps with Swift](http://itunes.com/stanfordswift/)
+- [CS 193P: iPhone and iPad Application Programming Developing iOS 8 Apps with Swift](http://itunes.com/stanfordswift/)
+- CS 193W: Apple Watch & TV Programming
 - [The iOS Apprentice](http://www.raywenderlich.com/store/ios-apprentice)
 - [Programming iOS 8](http://shop.oreilly.com/product/0636920034261.do)
 - [Start Developing iOS Apps Today](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1)
