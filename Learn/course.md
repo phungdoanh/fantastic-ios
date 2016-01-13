@@ -1,6 +1,8 @@
 Course
 --
 
+Free
+
 - [Teaching App Development with Swift](https://swifteducation.github.io/teaching_app_development_with_swift/)
 - [CS 193P: iPhone and iPad Application Programming Developing iOS 8 Apps with Swift](http://itunes.com/stanfordswift/)
 - CS 193W: Apple Watch & TV Programming
@@ -15,3 +17,7 @@ Course
 - [Swift-at-Artsy](https://github.com/orta/Swift-at-Artsy)
 - [learn-swift](https://github.com/nettlep/learn-swift)
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)
+
+Not free
+
+- [iOS on Upcase](https://upcase.com/ios)
