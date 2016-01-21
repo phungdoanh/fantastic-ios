@@ -9,3 +9,7 @@
 
 ## Community
 * [Skilled](http://www.skilled.io/)
+
+## General
+- http://www.chitchats.co/
+- http://www.slacklist.info/
