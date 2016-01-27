@@ -92,3 +92,6 @@
 
 ## do{iOS}
 * [2015](https://www.youtube.com/playlist?list=PLC3RVtNPazW9npPAmF61HyNDCiL3GDmoZ)
+
+## Objective-Cologne
+* [2015](https://www.youtube.com/playlist?list=PLgUjQUYKwG_jY3fW9m1P6L8TT0WfsmS7w)
