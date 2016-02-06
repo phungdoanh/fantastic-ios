@@ -193,6 +193,8 @@ Newsletters
 * [Apple Developer news](https://developer.apple.com/news/)
 * [Swift Sandbox](http://swiftsandbox.io/)
 * [The iOS Times](http://theiostimes.com/)
+* [iosdev](https://iosdev.io/)
+* [iOS Cookies](http://www.ioscookies.com/)
 
 Podcasts
 ==
