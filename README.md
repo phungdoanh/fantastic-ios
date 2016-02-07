@@ -296,5 +296,4 @@ Interview
 ==
 
 - [job-boards](https://github.com/onmyway133/job-boards)
-- [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/)
 
