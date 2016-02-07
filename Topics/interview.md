@@ -10,3 +10,4 @@ iOS Interview
 - [iOS Interview Questions and Answers by Chetan](http://chetansway.blogspot.com/2014/06/ios-interview-questions-and-answers.html)
 - [So You Have a Technical Interview at Macoscope](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
 - [iOS-Developer-and-Designer-Interview-Questions](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
+- [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/)
