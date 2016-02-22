@@ -24,9 +24,19 @@
 * [calabash-ios](https://github.com/calabash/calabash-ios)
 > Calabash for iOS
 
+* [LayoutTest-iOS](https://github.com/linkedin/LayoutTest-iOS)
+> Write unit tests which test the layout of a view in multiple configurations
+
+* [Fox](https://github.com/jeffh/Fox)
+> Property Based Testing Library for Objective-C and Swift. QuickCheck for Apple's Platforms
+
+
 ### Reactive Programming
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 > A framework for composing and transforming streams of values
+
+* [RxSwift](https://github.com/ReactiveX/RxSwift)
+> Reactive Programming in Swift
 
 ### Image Loader
 * [SDWebImage](https://github.com/rs/SDWebImage)
@@ -83,3 +93,11 @@
 ### Dependency Injection
 * [Dip](https://github.com/AliSoftware/Dip)
 > Simple Swift Dependency container. Use protocols to resolve your dependencies and avoid singletons / sharedInstances!
+
+### Localization
+* [Swifternalization](https://github.com/tomkowz/Swifternalization)
+> Localize iOS apps in a smarter way using JSON files. Swift framework.
+
+### Analytics
+* [Trackable](https://github.com/VojtaStavik/Trackable)
+> Trackable is a simple analytics integration helper library. It’s especially designed for easy and comfortable integration with existing projects
