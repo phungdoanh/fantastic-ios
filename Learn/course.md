@@ -17,6 +17,7 @@ Free
 - [Swift-at-Artsy](https://github.com/orta/Swift-at-Artsy)
 - [learn-swift](https://github.com/nettlep/learn-swift)
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)
+- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift)
 
 Not free
 
