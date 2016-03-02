@@ -45,6 +45,7 @@
 * [JazzHands](https://github.com/IFTTT/JazzHands) A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros
 
 * [Spring](https://github.com/MengTo/Spring) A library to simplify iOS animations in Swift
+* [Advance](https://github.com/storehouse/Advance) A powerful animation framework for iOS.
 
 ### Logging
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) Fast & simple, yet powerful & flexible logging framework for Mac and iOS
