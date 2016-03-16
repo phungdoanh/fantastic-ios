@@ -76,3 +76,6 @@
 
 ### Diff
 * [Dwifft](https://github.com/jflinter/Dwifft) Diff calculator for UITableView
+
+### Cache
+* [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) SPTPersistentCache is designed as an LRU cache which makes use of the file system to store files as well as inserting a cache header into each file
