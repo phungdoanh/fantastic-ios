@@ -42,7 +42,7 @@ fantastic-ios
 
 - [fantastic-ios-architecture](https://github.com/onmyway133/fantastic-ios-architecture)
 - [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation)
-[fantastic-ios-library](https://github.com/onmyway133/fantastic-ios-library)
+- [fantastic-ios-library](https://github.com/onmyway133/fantastic-ios-library)
 
 # Resources
 
