@@ -1,7 +1,0 @@
-* [The Syntax of Objective-C Blocks](http://arigrant.com/blog/2014/1/18/the-syntax-of-objective-c-blocks)
-* [From C Declarators to Objective-C Blocks Syntax](http://nilsou.com/blog/2013/08/21/objective-c-blocks-syntax/)
-* [I finally figured out weakSelf and strongSelf](https://dhoerl.wordpress.com/2013/04/23/i-finally-figured-out-weakself-and-strongself/)
-* [Objective-C Blocks Under the Hood](http://albertodebortoli.github.io/blog/2013/04/21/objective-c-blocks-under-the-hood/)
-* [A look inside blocks: Episode 3 ](http://www.galloway.me.uk/2013/05/a-look-inside-blocks-episode-3-block-copy/)
-* [Capturing My(self)](https://blackpixel.com/writing/2014/03/capturing-myself.html)
-* [Why you should start using @weakify and @strongify macros](http://holko.pl/2015/05/31/weakify-strongify/)

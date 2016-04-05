@@ -180,6 +180,15 @@ fantastic-ios
 - [iOS Dev Tools](http://ios.devtools.me/)
 - [Swift Toolbox](http://www.swifttoolbox.io)
 
+## Static Analyzer
+
+- [Xcode Static Analyzer](https://developer.apple.com/library/ios/recipes/xcode_help-source_editor/chapters/Analyze.html)
+- [Infer](http://fbinfer.com/)
+- [OCLint](http://oclint.org/)
+- [Faux pas](http://fauxpasapp.com/)
+- [SwiftLint](https://github.com/realm/SwiftLint)
+- [Objective-Clean](http://objclean.com/index.php)
+
 # Xcode
 
 ## Plugins
@@ -298,3 +307,90 @@ fantastic-ios
 #### Cache
 
 - [Cache](https://github.com/hyperoslo/Cache) Nothing but Cache
+
+# Reading
+
+## Swift
+
+- [Ranges and Intervals in Swift](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+
+## Functional Swift
+
+- [Introduction to Functional Programming in Swift](http://www.raywenderlich.com/114456/introduction-functional-programming-swift)
+- [Proof in Functions](http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) :star:
+- [Functional Reactive Programming in Swift](http://jensravens.com/series/functional-reactive-programming-in-swift/)
+- [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+- [Lenses in Swift](http://chris.eidhof.nl/posts/lenses-in-swift.html)
+- [Functional APIs with Swift](https://www.objc.io/issues/16-swift/functional-swift-apis/)
+- [Swift: Six Killer Features](http://ericasadun.com/2015/05/21/swift-six-killer-features/)
+- [Functor and Monad in Swift ](http://www.javiersoto.me/post/106875422394)
+- [Push vs Pull Signal](http://www.fantageek.com/blog/archives/)
+- [Railway oriented programming](http://fsharpforfunandprofit.com/posts/recipe-part2/) :star:
+- [a practical introduction to functional programming - now with swift!](http://harlankellaway.com/blog/2015/08/10/swift-functional-programming-intro/)
+- [Swift Optionals, Functional Programming, and You](http://www.mokacoding.com/blog/demistifying-swift-functor/)
+- [Reduce all the things](http://appventure.me/2015/11/30/reduce-all-the-things/)
+- [Introduction to function currying in Swift](https://robots.thoughtbot.com/introduction-to-function-currying-in-swift)
+- [Input and Output](https://joshaber.github.io/2013/02/11/input-and-output/) :star:
+- [RxMarbles Interactive diagrams of Rx Observables](http://rxmarbles.com/)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
+- [Which Programming Languages Are Functional?](http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html) :star:
+- [Functioning as a Functionalist](https://www.youtube.com/watch?v=rJosPrqBqrA)
+- [Lenses in Swif](https://www.youtube.com/watch?v=ofjehH9f-CU)
+- [Better Recursion with Swift](https://vimeo.com/138092644)
+- [Functions, a love affair - Josh Abernathy](https://vimeo.com/144139236)
+- [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw)
+- [Recommended Resources for Learning ReactiveCocoa](http://www.fantageek.com/blog/2015/04/03/recommended-resources-for-learning-reactivecocoa-2/)
+- [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
+- [Functional Reactive Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education#functional-reactive-programming-in-swift)
+- [Functional Programming and Category Theory in Swift](https://github.com/hsavit1/Awesome-Swift-Education#functional-programming-and-category-theory-in-swift)
+
+### Books
+
+- [Functional Swift](https://www.objc.io/books/functional-swift/)
+- [Functional Reactive Programming on iOS](https://leanpub.com/iosfrp)
+- [Reactive Programming with Swift](https://www.packtpub.com/application-development/reactive-programming-swift)
+
+## Code Sign
+
+- [iOS App Distribution and the Magical World of Code-Signing](https://codingrange.com/blog/ios-app-distribution-and-the-magical-world-of-code-signing)
+- [Demystifying iOS certificates and provisioning files](http://escoz.com/blog/demystifying-ios-certificates-and-provisioning-files/)
+- [What is a Provisioning Profile? Part 1](https://possiblemobile.com/2013/04/what-is-a-provisioning-profile-part-1/)
+- [What is a Provisioning Profile? Part 2](https://possiblemobile.com/2013/04/what-is-a-provisioning-profile-part-2/)
+- [Inside Code Signing](http://www.objc.io/issues/17-security/inside-code-signing/)
+- [How To Submit an iOS App to the App Store](http://code.tutsplus.com/tutorials/how-to-submit-an-ios-app-to-the-app-store--mobile-16812)
+- [Creating Your Team Provisioning Profile](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppStoreDistributionTutorial/CreatingYourTeamProvisioningProfile/CreatingYourTeamProvisioningProfile.html)
+- [When should I use a wildcard App ID?](https://developer.apple.com/library/ios/qa/qa1713/_index.html)
+- [iOS Code Signing Troubleshooting](https://developer.apple.com/library/ios/technotes/tn2407/_index.html#//apple_ref/doc/uid/DTS40014991-CH1-CODE_SIGNING_ERRORS-YOUR_ACCOUNT_ALREADY_HAS_A_VALID_IOS_DISTRIBUTION_CERTIFICATE)
+
+## Localization
+
+- [Advance Localization in ios apps](http://learning-ios.blogspot.com/2011/04/advance-localization-in-ios-apps.html)
+- [Multiple Localizable.strings files in one iOS app](http://stackoverflow.com/questions/4811745/multiple-localizable-strings-files-in-one-ios-app)
+- [iOS Localization Tutorial: Localize Your Apps to Support Multiple Languages](http://www.appcoda.com/ios-programming-tutorial-localization-apps/)
+- [String Localization](http://www.objc.io/issues/9-strings/string-localization/)
+- [Everything About iOS Localization](http://samwize.com/2014/04/10/everything-about-ios-localization/)
+- [Automating Strings Extraction From Storyboards for Localization](http://oleb.net/blog/2013/02/automating-strings-extraction-from-storyboards-for-localization/)
+- [Working with Localization](https://medium.com/ios-apprentice/working-with-localization-905e4052b9de)
+
+## Interview
+
+- [iOS Interview Questions For Senior Developers](http://www.sm-cloud.com/ios-interview-questions-for-senior-developers/)
+- [Interview Questions for iOS and Mac Developers by Daniel](http://blackpixel.com/blog/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
+- [iOS Interview Questions by Kyle](http://www.raywenderlich.com/53962/ios-interview-questions) and [How to Apply for an iOS Developer Job](http://www.raywenderlich.com/53628/how-to-apply-for-an-ios-developer-job)
+- [Tech Interview Questions for iOS Developers Leslie](http://news.dice.com/2013/11/14/technical-interview-questions-ios-developers/)
+- [iOS Interview Questions and Answers By GeekInterview](http://www.geekinterview.com/Interview-Questions/iOS)
+- [6 Great iOS Interview Questions by Toptal](http://www.toptal.com/ios/interview-questions)
+- [iOS Interview Questions and Answers by Chetan](http://chetansway.blogspot.com/2014/06/ios-interview-questions-and-answers.html)
+- [So You Have a Technical Interview at Macoscope](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
+- [iOS-Developer-and-Designer-Interview-Questions](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
+
+## Block
+
+- [The Syntax of Objective-C Blocks](http://arigrant.com/blog/2014/1/18/the-syntax-of-objective-c-blocks)
+- [From C Declarators to Objective-C Blocks Syntax](http://nilsou.com/blog/2013/08/21/objective-c-blocks-syntax/)
+- [I finally figured out weakSelf and strongSelf](https://dhoerl.wordpress.com/2013/04/23/i-finally-figured-out-weakself-and-strongself/)
+- [Objective-C Blocks Under the Hood](http://albertodebortoli.github.io/blog/2013/04/21/objective-c-blocks-under-the-hood/)
+- [A look inside blocks: Episode 3 ](http://www.galloway.me.uk/2013/05/a-look-inside-blocks-episode-3-block-copy/)
+- [Capturing My(self)](https://blackpixel.com/writing/2014/03/capturing-myself.html)
+- [Why you should start using @weakify and @strongify macros](http://holko.pl/2015/05/31/weakify-strongify/)
