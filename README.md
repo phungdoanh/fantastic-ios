@@ -24,9 +24,34 @@ fantastic-ios
 	- [Screencasts](#screencasts)
 - [Tools](#tools)
 	- [Static Analyzer](#static-analyzer)
+	- [Dependency Manager](#dependency-manager)
+	- [Automation](#automation)
+	- [Protoype](#protoype)
+	- [Documentation](#documentation)
 - [Xcode](#xcode)
 	- [Plugins](#plugins)
 	- [Shortcuts](#shortcuts)
+- [Services](#services)
+	- [Push Notification](#push-notification)
+	- [Crash Report](#crash-report)
+	- [Beta Testing / Deployment](#beta-testing-deployment)
+	- [Application Performance Management](#application-performance-management)
+	- [Messaging](#messaging)
+	- [Hotfix](#hotfix)
+	- [Analytics](#analytics)
+	- [Backend](#backend)
+	- [A/B Testing](#ab-testing)
+	- [Feature Flag](#feature-flag)
+	- [Configuration Management](#configuration-management)
+	- [Deep Linking](#deep-linking)
+	- [Payment](#payment)
+	- [Big Data](#big-data)
+	- [Image Recognition](#image-recognition)
+	- [Virtual Reality](#virtual-reality)
+	- [Content Platform](#content-platform)
+	- [Online Hosting](#online-hosting)
+	- [Stub API](#stub-api)
+	- [Continuous Integration](#continuous-integration)
 - [Reading](#reading)
 	- [Swift](#swift)
 	- [Functional Swift](#functional-swift)
@@ -232,12 +257,37 @@ fantastic-ios
 - [SwiftLint](https://github.com/realm/SwiftLint)
 - [Objective-Clean](http://objclean.com/index.php)
 
+## Dependency Manager
+
+- [Cocoapods](https://github.com/cocoapods/cocoapods)
+- [Carthage](https://github.com/Carthage/Carthage)
+
+## Automation
+
+- [fastlane](https://github.com/fastlane/fastlane :star:
+
+## Protoype
+
+- [Pixate](http://www.pixate.com/)
+- [Invision](https://www.invisionapp.com/)
+- [Flinto](https://www.flinto.com/)
+- [Origami](https://facebook.github.io/origami/)
+- [Form](http://www.relativewave.com/form/)
+- [Principle](http://principleformac.com/)
+- [Creo](http://creolabs.com/)
+- [Silver](http://silverflows.com/)
+- [Sketch](http://sketchapp.com/) :star:
+
+## Documentation
+
+- [Dash](https://kapeli.com/dash)
+
 # Xcode
 
 ## Plugins
 
 - [XcodeWay](https://github.com/onmyway133/XcodeWay) An Xcode plugin that makes navigating to many places easier
-- [XVim](https://github.com/XVimProject/XVim) Xcode plugin for Vim keybindings
+- [XVim](https://github.com/XVimProject/XVim) Xcode plugin for Vim keybindings :star:
 - [FuzzyAutocompletePlugin](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin) A Xcode 5+ plugin that adds more flexible autocompletion rather than just prefix-matching.
 - [XToDo](https://github.com/trawor/XToDo) Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`
 - [ACCodeSnippetRepositoryPlugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin) A plugin for Xcode to synchronize code snippets with repositories
@@ -256,6 +306,106 @@ fantastic-ios
 
 - [Xcode Efficiency Tips: Keyboard Shortcuts](http://spin.atomicobject.com/2014/03/23/xcode-keyboard-shortcuts/)
 - [Xcode Cheat Sheet](http://www.git-tower.com/blog/xcode-cheat-sheet)
+
+# Services
+
+## Push Notification
+
+- [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives)
+- [Urban Airship](https://www.urbanairship.com/)
+
+## Crash Report
+
+- [Crashlytics](https://try.crashlytics.com/)
+- [Apteligent](https://www.apteligent.com/)
+- [Xcode Crash Report](https://developer.apple.com/library/ios/recipes/xcode_help-crashes_organizer/AboutCrashesOrganizer/AboutCrashesOrganizer.html)
+- [HockeyApp](http://hockeyapp.net)
+
+## Beta Testing / Deployment
+
+- [Beta](http://try.crashlytics.com/beta/)
+- [iTunes Testflight](https://developer.apple.com/testflight/)
+- [HockeyApp](http://hockeyapp.net)
+
+## Application Performance Management
+
+- [Newrelic](http://newrelic.com/mobile-monitoring)
+- [App Dynamic](http://www.appdynamics.com/mobile/)
+
+## Messaging
+
+- [Pusher](https://pusher.com/?v=z)
+
+## Hotfix
+
+- [Rollout](https://rollout.io/)
+
+## Analytics
+
+- [Google Analytics](https://www.google.com/analytics/mobile/)
+- [Flurry](http://www.flurry.com/)
+- [Apple App Analytics](https://analytics.itunes.apple.com/)
+- [Mixpanel](https://mixpanel.com/)
+- [Segment](https://segment.com/)
+- [mParticle](https://www.mparticle.com/)
+- [Sentry](https://getsentry.com/welcome/)
+
+## Backend
+
+- [Firebase](https://www.firebase.com/docs/ios/)
+
+## A/B Testing
+
+- [Apptimize](http://apptimize.com/)
+
+## Feature Flag
+
+- [Launch Darkly](https://launchdarkly.com/)
+
+## Configuration Management
+
+- [LaunchKit Config](https://launchkit.io/config/)
+
+## Deep Linking
+
+- [Branch](https://branch.io/)
+- [Deeplink](https://deeplink.me/)
+
+## Payment
+
+- [Stripe](https://stripe.com/docs/mobile/ios)
+- [Braintree](https://developers.braintreepayments.com/)
+
+## Big Data
+
+- [Bluemix](https://console.ng.bluemix.net/)
+
+## Image Recognition
+
+- [Catchroom](http://catchoom.com/)
+
+## Virtual Reality
+
+- [Metaio](https://my.metaio.com/dev/)
+
+## Content Platform
+
+- [Brightcove](https://www.brightcove.com/en/)
+- [movideo](http://www.movideo.com/)
+
+## Online Hosting
+
+- [Amazon S3](https://aws.amazon.com/s3/)
+- [Cloudinary](http://cloudinary.com/)
+
+## Stub API
+
+- [Apiary](https://apiary.io/)
+
+## Continuous Integration
+
+- [Travis](https://travis-ci.org/)
+- [Buddybuild](https://www.buddybuild.com/)
 
 # Reading
 
