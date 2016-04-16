@@ -504,6 +504,7 @@ fantastic-ios
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [wwdc 2015](https://github.com/wwdc/2015) Student Submissions for the WWDC 2015 Scholarship
 - [eigen](https://github.com/artsy/eigen) The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
+- [f8app](https://github.com/fbsamples/f8app) Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
 
 # Reading
 
