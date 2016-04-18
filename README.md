@@ -68,6 +68,7 @@ fantastic-ios
 	- [Localization](#localization)
 	- [Diff](#diff)
 	- [Cache](#cache)
+	- [Facebook](#facebook)
 - [Open Source Projects](#open-source-projects)
 - [Reading](#reading)
 	- [Swift](#swift)
@@ -498,6 +499,22 @@ fantastic-ios
 ## Cache
 
 - [Cache](https://github.com/hyperoslo/Cache) Nothing but Cache
+
+## Facebook
+
+- [KVOController](https://github.com/facebook/KVOController) Simple, modern, thread-safe key-value observing for iOS and OS X.
+- [remodel](https://github.com/facebook/remodel) Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.
+- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
+- [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) iOS tool that helps with profiling iOS Memory usage.
+- [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker)
+- [componentkit](https://github.com/facebook/componentkit) A React-inspired view framework for iOS.
+- [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) Smooth asynchronous user interfaces for iOS apps
+- [react-native](https://github.com/facebook/react-native) A framework for building native apps with React
+- [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) Snapshot view unit tests for iOS
+- [chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
+- [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) A Mac OS X library for managing and manipulating iOS Simulators
+- [Shimmer](https://github.com/facebook/Shimmer) An easy way to add a simple, shimmering effect to any view in an iOS app.
+- [xctool](https://github.com/facebook/xctool) A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps.
 
 # Open Source Projects
 
