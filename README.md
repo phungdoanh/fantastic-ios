@@ -281,7 +281,7 @@ fantastic-ios
 
 ## Automation
 
-- [fastlane](https://github.com/fastlane/fastlane :star:
+- [fastlane](https://github.com/fastlane/fastlane) :star:
 
 ## Protoype
 
