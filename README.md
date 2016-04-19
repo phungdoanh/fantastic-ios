@@ -559,6 +559,7 @@ fantastic-ios
 - [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 - [Functional Reactive Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education#functional-reactive-programming-in-swift)
 - [Functional Programming and Category Theory in Swift](https://github.com/hsavit1/Awesome-Swift-Education#functional-programming-and-category-theory-in-swift)
+- [Understand Monads with this One Weird Trick](https://realm.io/news/slug-andy-bartholomew-understand-monads-one-weird-trick/)
 
 ### Books
 
