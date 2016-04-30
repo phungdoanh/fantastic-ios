@@ -32,43 +32,7 @@ fantastic-ios
 	- [Plugins](#plugins)
 	- [Shortcuts](#shortcuts)
 - [Services](#services)
-	- [Push Notification](#push-notification)
-	- [Crash Report](#crash-report)
-	- [Beta Testing / Deployment](#beta-testing-deployment)
-	- [Application Performance Management](#application-performance-management)
-	- [Messaging](#messaging)
-	- [Hotfix](#hotfix)
-	- [Analytics](#analytics)
-	- [Backend](#backend)
-	- [A/B Testing](#ab-testing)
-	- [Feature Flag](#feature-flag)
-	- [Configuration Management](#configuration-management)
-	- [Deep Linking](#deep-linking)
-	- [Payment](#payment)
-	- [Big Data](#big-data)
-	- [Image Recognition](#image-recognition)
-	- [Virtual Reality](#virtual-reality)
-	- [Content Platform](#content-platform)
-	- [Online Hosting](#online-hosting)
-	- [Stub API](#stub-api)
-	- [Continuous Integration](#continuous-integration)
 - [Libraries](#libraries)
-	- [Network](#network)
-	- [Model](#model)
-	- [Testing](#testing)
-	- [Reactive Programming](#reactive-programming)
-	- [Image Loader](#image-loader)
-	- [Autolayout](#autolayout)
-	- [Animation](#animation)
-	- [Logging](#logging)
-	- [Sliding menu](#sliding-menu)
-	- [Data manipulation](#data-manipulation)
-	- [Scripting](#scripting)
-	- [Dependency Injection](#dependency-injection)
-	- [Localization](#localization)
-	- [Diff](#diff)
-	- [Cache](#cache)
-	- [Facebook](#facebook)
 - [Open Source Projects](#open-source-projects)
 - [Reading](#reading)
 	- [Swift](#swift)
@@ -326,38 +290,38 @@ fantastic-ios
 
 # Services
 
-## Push Notification
+Push Notification
 
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives)
 - [Urban Airship](https://www.urbanairship.com/)
 
-## Crash Report
+Crash Report
 
 - [Crashlytics](https://try.crashlytics.com/)
 - [Apteligent](https://www.apteligent.com/)
 - [Xcode Crash Report](https://developer.apple.com/library/ios/recipes/xcode_help-crashes_organizer/AboutCrashesOrganizer/AboutCrashesOrganizer.html)
 - [HockeyApp](http://hockeyapp.net)
 
-## Beta Testing / Deployment
+Beta Testing / Deployment
 
 - [Beta](http://try.crashlytics.com/beta/)
 - [iTunes Testflight](https://developer.apple.com/testflight/)
 - [HockeyApp](http://hockeyapp.net)
 
-## Application Performance Management
+Application Performance Management
 
 - [Newrelic](http://newrelic.com/mobile-monitoring)
 - [App Dynamic](http://www.appdynamics.com/mobile/)
 
-## Messaging
+Messaging
 
 - [Pusher](https://pusher.com/?v=z)
 
-## Hotfix
+Hotfix
 
 - [Rollout](https://rollout.io/)
 
-## Analytics
+Analytics
 
 - [Google Analytics](https://www.google.com/analytics/mobile/)
 - [Flurry](http://www.flurry.com/)
@@ -367,76 +331,76 @@ fantastic-ios
 - [mParticle](https://www.mparticle.com/)
 - [Sentry](https://getsentry.com/welcome/)
 
-## Backend
+Backend
 
 - [Firebase](https://www.firebase.com/docs/ios/)
 
-## A/B Testing
+A/B Testing
 
 - [Apptimize](http://apptimize.com/)
 
-## Feature Flag
+Feature Flag
 
 - [Launch Darkly](https://launchdarkly.com/)
 
-## Configuration Management
+Configuration Management
 
 - [LaunchKit Config](https://launchkit.io/config/)
 
-## Deep Linking
+Deep Linking
 
 - [Branch](https://branch.io/)
 - [Deeplink](https://deeplink.me/)
 
-## Payment
+Payment
 
 - [Stripe](https://stripe.com/docs/mobile/ios)
 - [Braintree](https://developers.braintreepayments.com/)
 
-## Big Data
+Big Data
 
 - [Bluemix](https://console.ng.bluemix.net/)
 
-## Image Recognition
+Image Recognition
 
 - [Catchroom](http://catchoom.com/)
 
-## Virtual Reality
+Virtual Reality
 
 - [Metaio](https://my.metaio.com/dev/)
 
-## Content Platform
+Content Platform
 
 - [Brightcove](https://www.brightcove.com/en/)
 - [movideo](http://www.movideo.com/)
 
-## Online Hosting
+Online Hosting
 
 - [Amazon S3](https://aws.amazon.com/s3/)
 - [Cloudinary](http://cloudinary.com/)
 
-## Stub API
+Stub API
 
 - [Apiary](https://apiary.io/)
 
-## Continuous Integration
+Continuous Integration
 
 - [Travis](https://travis-ci.org/)
 - [Buddybuild](https://www.buddybuild.com/)
 
 # Libraries
 
-## Network
+Network
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) A delightful iOS and OS X networking framework
 - [Alamofire](https://github.com/Alamofire/Alamofire) Elegant HTTP Networking in Swift
 
-## Model
+Model
 
 - [Mantle](https://github.com/Mantle/Mantle) Model framework for Cocoa and Cocoa Touch
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) The better way to deal with JSON data in Swift
 
-## Testing
+Testing
 
 - [Kiwi](https://github.com/kiwi-bdd/Kiwi) BDD for iOS
 - [Quick](https://github.com/Quick/Quick) The Swift (and Objective-C) testing framework.
@@ -444,63 +408,68 @@ fantastic-ios
 - [LayoutTest-iOS](https://github.com/linkedin/LayoutTest-iOS) Write unit tests which test the layout of a view in multiple configurations
 - [Fox](https://github.com/jeffh/Fox) Property Based Testing Library for Objective-C and Swift. QuickCheck for Apple's Platforms
 
-## Reactive Programming
+Utilities
+
+- [Sugar](https://github.com/hyperoslo/Sugar) Something sweet that goes great with your Cocoa
+- [Omnia](https://github.com/onmyway133/Omnia) Everything your projects need to know
+
+Reactive Programming
 
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) A framework for composing and transforming streams of values
 - [RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift
 
-## Image Loader
+Image Loader
 
 - [SDWebImage](https://github.com/rs/SDWebImage) Asynchronous image downloader with cache support with an UIImageView category
 - [Kingfisher](https://github.com/onevcat/Kingfisher) A lightweight and pure Swift implemented library for downloading and caching image from the web.
 
-## Autolayout
+Autolayout
 
 - [Masonry](https://github.com/SnapKit/Masonry) Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
 - [SnapKit](https://github.com/SnapKit/SnapKit) A Swift Autolayout DSL for iOS & OS X
 - [Cartography](https://github.com/robb/Cartography) A declarative Auto Layout DSL for Swift
 
-## Animation
+Animation
 
 - [pop](https://github.com/facebook/pop) An extensible iOS and OS X animation library, useful for physics-based interactions.
 - [JazzHands](https://github.com/IFTTT/JazzHands) A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros
 - [Spring](https://github.com/MengTo/Spring) A library to simplify iOS animations in Swift
 - [Advance](https://github.com/storehouse/Advance) A powerful animation framework for iOS.
 
-## Logging
+Logging
 
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) Fast & simple, yet powerful & flexible logging framework for Mac and iOS
 
-## Sliding menu
+Sliding menu
 
 - [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) Lightweight, easy to use, Side Drawer Navigation Controller
 
-## Data manipulation
+Data manipulation
 
 - [Dollar.swift](https://github.com/ankurp/Dollar.swift) A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript
 - [Switfz](https://github.com/typelift/Swiftz) Functional programming in Swift
 
-## Scripting
+Scripting
 
 - [Swiftline](https://github.com/Swiftline/Swiftline) Swiftline is a set of tools to help you create command line applications
 
-## Dependency Injection
+Dependency Injection
 
 - [Dip](https://github.com/AliSoftware/Dip) Simple Swift Dependency container. Use protocols to resolve your dependencies and avoid singletons / sharedInstances!
 
-## Localization
+Localization
 
 - [Swifternalization](https://github.com/tomkowz/Swifternalization) Localize iOS apps in a smarter way using JSON files. Swift framework.
 
-## Diff
+Diff
 
 - [Dwifft](https://github.com/jflinter/Dwifft) Diff calculator for UITableView
 
-## Cache
+Cache
 
 - [Cache](https://github.com/hyperoslo/Cache) Nothing but Cache
 
-## Facebook
+Facebook
 
 - [KVOController](https://github.com/facebook/KVOController) Simple, modern, thread-safe key-value observing for iOS and OS X.
 - [remodel](https://github.com/facebook/remodel) Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.
@@ -516,12 +485,22 @@ fantastic-ios
 - [Shimmer](https://github.com/facebook/Shimmer) An easy way to add a simple, shimmering effect to any view in an iOS app.
 - [xctool](https://github.com/facebook/xctool) A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps.
 
+Debug
+
+- [FLEX](https://github.com/Flipboard/FLEX) An in-app debugging and exploration tool for iOS
+- [Paramount](https://github.com/onmyway133/Paramount) Like Flipboard FLEX, but allows custom action
+- [MainThreadGuard](https://github.com/onmyway133/MainThreadGuard) Tracking UIKit access on main thread
+- [Border](https://github.com/onmyway133/border) Make border for all views
+- [Watchdog](https://github.com/wojteklu/Watchdog) Class for logging excessive blocking on the main thread
+
 # Open Source Projects
 
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [wwdc 2015](https://github.com/wwdc/2015) Student Submissions for the WWDC 2015 Scholarship
 - [eigen](https://github.com/artsy/eigen) The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app
 - [f8app](https://github.com/fbsamples/f8app) Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
+- [xamarin-macios](https://github.com/xamarin/xamarin-macios) Bridges the worlds of .NET with the native APIs of Mac, iOS, tvOS, and watchOS.
+- [parse-server](https://github.com/ParsePlatform/parse-server) Parse-compatible API server module for Node/Express
 
 # Reading
 
