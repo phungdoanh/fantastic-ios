@@ -486,6 +486,7 @@ Facebook
 - [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) A Mac OS X library for managing and manipulating iOS Simulators
 - [Shimmer](https://github.com/facebook/Shimmer) An easy way to add a simple, shimmering effect to any view in an iOS app.
 - [xctool](https://github.com/facebook/xctool) A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps.
+- [Tweaks](https://github.com/facebook/Tweaks) An easy way to fine-tune, and adjust parameters for iOS apps in development.
 
 Debug
 
