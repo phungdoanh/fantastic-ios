@@ -44,6 +44,7 @@ fantastic-ios
 	- [Localization](#localization)
 	- [Interview](#interview)
 	- [Block](#block)
+- [Tips](#tips)
 
 <!-- /TOC -->
 
@@ -592,3 +593,15 @@ Debug
 - [A look inside blocks: Episode 3 ](http://www.galloway.me.uk/2013/05/a-look-inside-blocks-episode-3-block-copy/)
 - [Capturing My(self)](https://blackpixel.com/writing/2014/03/capturing-myself.html)
 - [Why you should start using @weakify and @strongify macros](http://holko.pl/2015/05/31/weakify-strongify/)
+
+# Tips
+
+- [iOS best practices](http://www.fantageek.com/2016/01/15/ios-best-pratices/#xcconfig)
+- [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator)
+- [Using Git Hooks to prevent commiting test code](https://appventure.me/2016/04/04/prevent-accidental-test-code-commits/)
+- [gitify](https://github.com/ekonstantinidis/gitify)
+- [FLEX](https://github.com/flipboard/flex)
+- [fastlane](https://github.com/fastlane/fastlane)
+- [Overlaying application version on top of your icon](http://merowing.info/2013/03/overlaying-application-version-on-top-of-your-icon/)
+- [SwiftGen](https://github.com/AliSoftware/SwiftGen)
+- [MainThreadGuard](https://github.com/onmyway133/MainThreadGuard)
