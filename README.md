@@ -285,6 +285,9 @@ fantastic-ios
 - [deriveddata-exterminator](https://github.com/kattrali/deriveddata-exterminator) A magic button in Xcode to exterminate the current project's DerivedData directories
 - [DCLazyInstantiate](https://github.com/youweit/DCLazyInstantiate) Generates lazy property for you!
 - [MarvinXcode](https://github.com/zenangst/MarvinXcode) A collection of nifty commands for your everyday workflow in Xcode
+- [Tuna](https://github.com/dealforest/Tuna) Xcode plugin that provides easy set breakpoint with action.
+- [Cichlid](https://github.com/dealforest/Cichlid) automatically delete the current project's DerivedData directories
+- [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator)
 
 ## Shortcuts
 
