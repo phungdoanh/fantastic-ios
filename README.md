@@ -277,7 +277,7 @@ fantastic-ios
 - [ACCodeSnippetRepositoryPlugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin) A plugin for Xcode to synchronize code snippets with repositories
 - [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) Xcode plug-in which helps you write Javadoc style documents easier.
 - [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode) Xcode plug-in that provides autocomplete for imageNamed: calls
-- [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode) Plugin for Xcode to make working with colors more visual
+- [XcodeColorSense](https://github.com/onmyway133/XcodeColorSense) An Xcode plugin that makes working with color easier
 - [Lin](https://github.com/questbeat/Lin) Xcode plugin that provides auto-completion for NSLocalizedString
 - [KSHObjcUML](https://github.com/kimsungwhee/KSHObjcUML) KSHObjcUML can show oriented graph of dependencies between Objective-C classes in your project
 - [CATweaker](https://github.com/keefo/CATweaker) A helper tool and an Xcode plugin for creating beautiful CAMediaTimingFunction curve
