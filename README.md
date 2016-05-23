@@ -114,7 +114,7 @@ fantastic-ios
 
 ### Videos
 
-- [pomo](http://www.pomo.tv/)
+- [pomo](http://www.pomo.tv/) :star:
 
 ## iOS Developers
 
@@ -195,7 +195,7 @@ fantastic-ios
 ## Podcasts
 
 - [Pod5](http://pod5.io)
-- [NSBrief](http://nsbrief.com)
+- [NSBrief](http://nsbrief.com) :star:
 - [Release Notes](http://releasenotes.tv/)
 - [Core Intuition](http://www.coreint.org)
 - [iPhreaksShow](http://iphreaksshow.com)
@@ -214,7 +214,8 @@ fantastic-ios
 - [iOS Bytes](https://itunes.apple.com/us/podcast/ios-bytes/id779578057?mt=2)
 - [5by5 Hypercritical](http://5by5.tv/hypercritical)
 - [The Record](http://therecord.co)
-- [iDeveloper.t](http://ideveloper.tv/)
+- [iDeveloper.t](http://ideveloper.tv/) :star:
+- [Shared Instance](http://sharedinstance.com/) :star:
 
 ## Screencasts
 
