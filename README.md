@@ -65,15 +65,15 @@ fantastic-ios
 
 ## Blogs
 
-- [objc.io](http://www.objc.io/)
+- [objc.io](https://www.objc.io/)
 - [NSHint](http://nshint.io/)
 - [NSHipster](http://nshipster.com/)
-- [Raywenderlich](http://www.raywenderlich.com/)
+- [Raywenderlich](https://www.raywenderlich.com/)
 - [iOS SDK Tutsplus](http://code.tutsplus.com/categories/ios-sdk)
 - [Khanlou](http://khanlou.com/)
-- [Mikeash](https://mikeash.com/pyblog)
+- [Mikeash](https://mikeash.com/pyblog/)
 - [Ole Begemann](http://oleb.net/blog/)
-- [Krzysztof Zabłocki](http://www.merowing.info/)
+- [Krzysztof Zabłocki](http://merowing.info/)
 - [Peter Steinberger](http://petersteinberger.com/)
 - [Ash Furrow](http://ashfurrow.com/)
 - [Alberto De Bortoli](http://albertodebortoli.github.io/blog/archives/)
@@ -100,7 +100,7 @@ fantastic-ios
 - [AltConf](http://www.altconf.com/)
 - [ÇINGLETON](http://cingleton.com/)
 - [Swipe Conference](http://swipeconference.com.au/)
-- [MCEConf](http://mceconf.com/)
+- [MCEConf](http://2016.mceconf.com/)
 - [Xamarin Evole](https://evolve.xamarin.com/)
 - [Renaissance](http://renaissance.io/)
 - [Cocoaconf](http://cocoaconf.com/)
@@ -127,7 +127,7 @@ fantastic-ios
 
 ### Twitter
 
-- [objc.io contributors](http://www.objc.io/issues/contributors/)
+- [objc.io contributors](https://www.objc.io/issues/contributors/)
 - [Raywenderlich tutorial team](https://twitter.com/rwenderlich/lists/raywenderlich-com-team)
 - [52 people every iOS developer should follow on Twitter](https://medium.com/ios-os-x-development/52-people-every-ios-developer-should-follow-on-twitter-25ca8915369a)
 
@@ -146,12 +146,12 @@ fantastic-ios
 - [Teaching App Development with Swift](https://swifteducation.github.io/teaching_app_development_with_swift/)
 - [CS 193P: iPhone and iPad Application Programming Developing iOS 8 Apps with Swift](http://itunes.com/stanfordswift/)
 - CS 193W: Apple Watch & TV Programming
-- [The iOS Apprentice](http://www.raywenderlich.com/store/ios-apprentice)
+- [The iOS Apprentice](https://www.raywenderlich.com/store/ios-apprentice)
 - [Programming iOS 8](http://shop.oreilly.com/product/0636920034261.do)
 - [Start Developing iOS Apps Today](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1)
 - [App Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
 - [Hacking With Swift](https://www.hackingwithswift.com/)
-- [Swifty Ninja](http://galibugs.com/swifty-ninja-jr/)
+- [Swifty Ninja](https://galibugs.com/swifty-ninja-jr/)
 - [iOS Programming Course](http://www.appcoda.com/ios-programming-course/)
 - [CodePath iOS](http://guides.codepath.com/ios)
 - [Swift-at-Artsy](https://github.com/orta/Swift-at-Artsy)
@@ -185,7 +185,7 @@ fantastic-ios
 
 ## Newsletters
 
-- [iOS Dev Weekly](https://iosdevweek.ly/)
+- [iOS Dev Weekly](https://curated.co/)
 - [iOS Goodies](http://ios-goodies.com/)
 - [This week in Swift](https://swiftnews.curated.co/)
 - [Apple Developer news](https://developer.apple.com/news/)
@@ -196,41 +196,41 @@ fantastic-ios
 
 - [Pod5](http://pod5.io)
 - [NSBrief](http://nsbrief.com) :star:
-- [Release Notes](http://releasenotes.tv/)
+- [Release Notes](https://releasenotes.tv/)
 - [Core Intuition](http://www.coreint.org)
-- [iPhreaksShow](http://iphreaksshow.com)
-- [Thoughtbot Build Phase](http://podcasts.thoughtbot.com/buildphase/)
-- [Jelly Style](http://jellystyle.com/podcasts)
-- [Raywenderlich](http://www.raywenderlich.com/rwpodcast)
-- [iOSYes](http://iohyespodcast.com)
+- [iPhreaksShow](https://devchat.tv/iphreaks//)
+- [Thoughtbot Build Phase](http://buildphase.fm/)
+- [Jelly Style](https://jellystyle.com/podcasts)
+- [Raywenderlich](https://www.raywenderlich.com/rwpodcast)
+- [iOSYes](http://5by5.tv/iohyes)
 - [AppStory](http://www.appstorypodcast.com/)
 - [CocoaRadio](http://feedpress.me/cocoaradio)
 - [Cocoanetics](https://www.cocoanetics.com/category/podcast/)
 - [This developer life](http://thisdeveloperslife.com)
-- [Mobile App Chat](http://mobileappchat.com/)
+- [Mobile App Chat](http://appmasters.co/)
 - [Accidental Tech Podcast](http://atp.fm)
 - [The Talk Show](http://www.muleradio.net/thetalkshow)
 - [Core Intuition](http://www.coreint.org/)
 - [iOS Bytes](https://itunes.apple.com/us/podcast/ios-bytes/id779578057?mt=2)
 - [5by5 Hypercritical](http://5by5.tv/hypercritical)
 - [The Record](http://therecord.co)
-- [iDeveloper.t](http://ideveloper.tv/) :star:
+- [iDeveloper.t](http://blog.ideveloper.co) :star:
 - [Shared Instance](http://sharedinstance.com/) :star:
 
 ## Screencasts
 
 - [NSScreencast](http://nsscreencast.com/)
-- [Raywenderlich](http://www.raywenderlich.com/videos)
+- [Raywenderlich](https://www.raywenderlich.com/videos)
 
 # Tools
 
 - [What's in my iOS Toolbox?](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html)
 - [What's in my iOS Toolbox? (2)](http://edsancha.com/blog/2014/02/03/whats-in-my-iOS-toolbox-2.html)
 - [The Valuable Toolset for iOS Development](https://medium.com/@jamztang/the-valuable-toolset-for-ios-development-ba312d12577d)
-- [iOS Developer Tools](http://www.merowing.info/2014/02/ios-developer-tools/#.U5vCgpSSyK8)
-- [Tools for Running an iOS Consulting Studio](http://www.raywenderlich.com/71394/tools-for-ios-consulting-studio)
-- [iOS Dev Tools: The raywenderlich.com Podcast Episode 4](http://www.raywenderlich.com/68356/ios-dev-tools-raywenderlich-com-podcast-episode-4)
-- [iOS Dev Tools](http://ios.devtools.me/)
+- [iOS Developer Tools](http://merowing.info/2014/02/ios-developer-tools/)
+- [Tools for Running an iOS Consulting Studio](https://www.raywenderlich.com/71394/tools-for-ios-consulting-studio)
+- [iOS Dev Tools: The raywenderlich.com Podcast Episode 4](https://www.raywenderlich.com/68356/ios-dev-tools-raywenderlich-com-podcast-episode-4)
+- [iOS Dev Tools](https://iosdev.tools/)
 - [Swift Toolbox](http://www.swifttoolbox.io)
 
 ## Static Analyzer
@@ -292,8 +292,8 @@ fantastic-ios
 
 ## Shortcuts
 
-- [Xcode Efficiency Tips: Keyboard Shortcuts](http://spin.atomicobject.com/2014/03/23/xcode-keyboard-shortcuts/)
-- [Xcode Cheat Sheet](http://www.git-tower.com/blog/xcode-cheat-sheet)
+- [Xcode Efficiency Tips: Keyboard Shortcuts](https://spin.atomicobject.com/2014/03/23/xcode-keyboard-shortcuts/)
+- [Xcode Cheat Sheet](https://www.git-tower.com/blog/xcode-cheat-sheet)
 
 # Services
 
@@ -307,7 +307,7 @@ Crash Report
 - [Crashlytics](https://try.crashlytics.com/)
 - [Apteligent](https://www.apteligent.com/)
 - [Xcode Crash Report](https://developer.apple.com/library/ios/recipes/xcode_help-crashes_organizer/AboutCrashesOrganizer/AboutCrashesOrganizer.html)
-- [HockeyApp](http://hockeyapp.net)
+- [HockeyApp](https://www.hockeyapp.net/)
 
 Beta Testing / Deployment
 
@@ -317,8 +317,8 @@ Beta Testing / Deployment
 
 Application Performance Management
 
-- [Newrelic](http://newrelic.com/mobile-monitoring)
-- [App Dynamic](http://www.appdynamics.com/mobile/)
+- [Newrelic](https://newrelic.com/mobile-monitoring)
+- [App Dynamic](https://www.appdynamics.com/mobile/)
 
 Messaging
 
@@ -453,12 +453,12 @@ Sliding menu
 
 Data manipulation
 
-- [Dollar.swift](https://github.com/ankurp/Dollar.swift) A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript
+- [Dollar.swift](https://github.com/ankurp/Dollar) A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript
 - [Switfz](https://github.com/typelift/Swiftz) Functional programming in Swift
 
 Scripting
 
-- [Swiftline](https://github.com/Swiftline/Swiftline) Swiftline is a set of tools to help you create command line applications
+- [Swiftline](https://github.com/oarrabi/Swiftline) Swiftline is a set of tools to help you create command line applications
 
 Dependency Injection
 
@@ -518,7 +518,7 @@ Debug
 
 ## Functional Swift
 
-- [Introduction to Functional Programming in Swift](http://www.raywenderlich.com/114456/introduction-functional-programming-swift)
+- [Introduction to Functional Programming in Swift](https://www.raywenderlich.com/114456/introduction-functional-programming-swift)
 - [Proof in Functions](http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) :star:
 - [Functional Reactive Programming in Swift](http://jensravens.com/series/functional-reactive-programming-in-swift/)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
@@ -560,7 +560,7 @@ Debug
 - [Demystifying iOS certificates and provisioning files](http://escoz.com/blog/demystifying-ios-certificates-and-provisioning-files/)
 - [What is a Provisioning Profile? Part 1](https://possiblemobile.com/2013/04/what-is-a-provisioning-profile-part-1/)
 - [What is a Provisioning Profile? Part 2](https://possiblemobile.com/2013/04/what-is-a-provisioning-profile-part-2/)
-- [Inside Code Signing](http://www.objc.io/issues/17-security/inside-code-signing/)
+- [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 - [How To Submit an iOS App to the App Store](http://code.tutsplus.com/tutorials/how-to-submit-an-ios-app-to-the-app-store--mobile-16812)
 - [Creating Your Team Provisioning Profile](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppStoreDistributionTutorial/CreatingYourTeamProvisioningProfile/CreatingYourTeamProvisioningProfile.html)
 - [When should I use a wildcard App ID?](https://developer.apple.com/library/ios/qa/qa1713/_index.html)
@@ -571,7 +571,7 @@ Debug
 - [Advance Localization in ios apps](http://learning-ios.blogspot.com/2011/04/advance-localization-in-ios-apps.html)
 - [Multiple Localizable.strings files in one iOS app](http://stackoverflow.com/questions/4811745/multiple-localizable-strings-files-in-one-ios-app)
 - [iOS Localization Tutorial: Localize Your Apps to Support Multiple Languages](http://www.appcoda.com/ios-programming-tutorial-localization-apps/)
-- [String Localization](http://www.objc.io/issues/9-strings/string-localization/)
+- [String Localization](https://www.objc.io/issues/9-strings/string-localization/)
 - [Everything About iOS Localization](http://samwize.com/2014/04/10/everything-about-ios-localization/)
 - [Automating Strings Extraction From Storyboards for Localization](http://oleb.net/blog/2013/02/automating-strings-extraction-from-storyboards-for-localization/)
 - [Working with Localization](https://medium.com/ios-apprentice/working-with-localization-905e4052b9de)
@@ -579,11 +579,11 @@ Debug
 ## Interview
 
 - [iOS Interview Questions For Senior Developers](http://www.sm-cloud.com/ios-interview-questions-for-senior-developers/)
-- [Interview Questions for iOS and Mac Developers by Daniel](http://blackpixel.com/blog/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
-- [iOS Interview Questions by Kyle](http://www.raywenderlich.com/53962/ios-interview-questions) and [How to Apply for an iOS Developer Job](http://www.raywenderlich.com/53628/how-to-apply-for-an-ios-developer-job)
-- [Tech Interview Questions for iOS Developers Leslie](http://news.dice.com/2013/11/14/technical-interview-questions-ios-developers/)
+- [Interview Questions for iOS and Mac Developers by Daniel](https://blackpixel.com/blog/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
+- [iOS Interview Questions by Kyle](https://www.raywenderlich.com/53962/ios-interview-questions) and [How to Apply for an iOS Developer Job](https://www.raywenderlich.com/53628/how-to-apply-for-an-ios-developer-job)
+- [Tech Interview Questions for iOS Developers Leslie](http://insights.dice.com/2013/11/14/technical-interview-questions-ios-developers/)
 - [iOS Interview Questions and Answers By GeekInterview](http://www.geekinterview.com/Interview-Questions/iOS)
-- [6 Great iOS Interview Questions by Toptal](http://www.toptal.com/ios/interview-questions)
+- [6 Great iOS Interview Questions by Toptal](https://www.toptal.com/ios/interview-questions)
 - [iOS Interview Questions and Answers by Chetan](http://chetansway.blogspot.com/2014/06/ios-interview-questions-and-answers.html)
 - [So You Have a Technical Interview at Macoscope](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
 - [iOS-Developer-and-Designer-Interview-Questions](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
