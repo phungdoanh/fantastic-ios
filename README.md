@@ -185,7 +185,7 @@ fantastic-ios
 
 ## Newsletters
 
-- [iOS Dev Weekly](https://curated.co/)
+- [iOS Dev Weekly](https://iosdevweekly.com/)
 - [iOS Goodies](http://ios-goodies.com/)
 - [This week in Swift](https://swiftnews.curated.co/)
 - [Apple Developer news](https://developer.apple.com/news/)
