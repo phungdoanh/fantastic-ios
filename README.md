@@ -609,3 +609,4 @@ Debug
 - [Overlaying application version on top of your icon](http://merowing.info/2013/03/overlaying-application-version-on-top-of-your-icon/)
 - [SwiftGen](https://github.com/AliSoftware/SwiftGen)
 - [MainThreadGuard](https://github.com/onmyway133/MainThreadGuard)
+- [SimulatorRemoteNotifications](https://github.com/acoomans/SimulatorRemoteNotifications)
