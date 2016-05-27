@@ -610,3 +610,7 @@ Debug
 - [SwiftGen](https://github.com/AliSoftware/SwiftGen)
 - [MainThreadGuard](https://github.com/onmyway133/MainThreadGuard)
 - [SimulatorRemoteNotifications](https://github.com/acoomans/SimulatorRemoteNotifications)
+
+Licence
+--
+This project is released under the MIT license. See LICENSE.md.
