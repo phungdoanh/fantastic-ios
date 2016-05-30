@@ -471,6 +471,7 @@ Localization
 Diff
 
 - [Dwifft](https://github.com/jflinter/Dwifft) Diff calculator for UITableView
+- [Changeset](https://github.com/osteslag/Changeset) Minimal edits from one collection to another
 
 Cache
 
