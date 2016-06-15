@@ -399,13 +399,13 @@ Continuous Integration
 
 Network
 
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking) A delightful iOS and OS X networking framework
 - [Alamofire](https://github.com/Alamofire/Alamofire) Elegant HTTP Networking in Swift
+- [Malibu](https://github.com/hyperoslo/Malibu) 🏄 🌴 Malibu is a networking library built on promises
 
 Model
 
 - [Mantle](https://github.com/Mantle/Mantle) Model framework for Cocoa and Cocoa Touch
-- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) The better way to deal with JSON data in Swift
+- [Tailor](https://github.com/zenangst/Tailor) A super fast & convenient object mapper tailored for your needs
 
 Testing
 
