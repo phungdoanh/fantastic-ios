@@ -404,12 +404,10 @@ Network
 
 Model
 
-- [Mantle](https://github.com/Mantle/Mantle) Model framework for Cocoa and Cocoa Touch
 - [Tailor](https://github.com/zenangst/Tailor) A super fast & convenient object mapper tailored for your needs
 
 Testing
 
-- [Kiwi](https://github.com/kiwi-bdd/Kiwi) BDD for iOS
 - [Quick](https://github.com/Quick/Quick) The Swift (and Objective-C) testing framework.
 - [calabash-ios](https://github.com/calabash/calabash-ios) Calabash for iOS
 - [LayoutTest-iOS](https://github.com/linkedin/LayoutTest-iOS) Write unit tests which test the layout of a view in multiple configurations
@@ -422,17 +420,14 @@ Utilities
 
 Reactive Programming
 
-- [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) A framework for composing and transforming streams of values
 - [RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift
 
 Image Loader
 
-- [SDWebImage](https://github.com/rs/SDWebImage) Asynchronous image downloader with cache support with an UIImageView category
 - [Kingfisher](https://github.com/onevcat/Kingfisher) A lightweight and pure Swift implemented library for downloading and caching image from the web.
 
 Autolayout
 
-- [Masonry](https://github.com/SnapKit/Masonry) Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
 - [SnapKit](https://github.com/SnapKit/SnapKit) A Swift Autolayout DSL for iOS & OS X
 - [Cartography](https://github.com/robb/Cartography) A declarative Auto Layout DSL for Swift
 
@@ -463,6 +458,7 @@ Scripting
 Dependency Injection
 
 - [Dip](https://github.com/AliSoftware/Dip) Simple Swift Dependency container. Use protocols to resolve your dependencies and avoid singletons / sharedInstances!
+- [Cleanse](https://github.com/square/Cleanse) Lightweight Swift Dependency Injection Framework
 
 Localization
 
@@ -502,6 +498,14 @@ Debug
 - [Border](https://github.com/onmyway133/border) Make border for all views
 - [Watchdog](https://github.com/wojteklu/Watchdog) Class for logging excessive blocking on the main thread
 
+OCR
+
+- [SwiftOCR](https://github.com/garnele007/SwiftOCR) Fast and simple OCR library written in Swift
+
+AI
+
+- [Swift-AI](https://github.com/collinhundley/Swift-AI) An artificial intelligence and machine learning library in Swift.
+- [AIToolbox](https://github.com/KevinCoble/AIToolbox) A toolbox of AI modules written in Swift: Graphs/Trees, Support Vector Machines, Neural Networks, PCA, K-Means, Genetic Algorithms
 # Open Source Projects
 
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
