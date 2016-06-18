@@ -34,7 +34,7 @@ fantastic-ios
 	- [Plugins](#plugins)
 	- [Shortcuts](#shortcuts)
 - [Services](#services)
-- [Libraries](#libraries)
+- [Libraries](#libraries) :star:
 - [Open Source Projects](#open-source-projects)
 - [Reading](#reading)
 	- [Swift](#swift)
