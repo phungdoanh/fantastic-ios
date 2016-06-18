@@ -506,6 +506,11 @@ AI
 
 - [Swift-AI](https://github.com/collinhundley/Swift-AI) An artificial intelligence and machine learning library in Swift.
 - [AIToolbox](https://github.com/KevinCoble/AIToolbox) A toolbox of AI modules written in Swift: Graphs/Trees, Support Vector Machines, Neural Networks, PCA, K-Means, Genetic Algorithms
+
+Algorithm
+
+- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) Algorithms and data structures in Swift, with explanations!
+
 # Open Source Projects
 
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
