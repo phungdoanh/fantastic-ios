@@ -511,6 +511,10 @@ Algorithm
 
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) Algorithms and data structures in Swift, with explanations!
 
+Path
+
+- [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) Gesture recognizer tool [Swift / iOS]
+
 # Open Source Projects
 
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
@@ -519,6 +523,7 @@ Algorithm
 - [f8app](https://github.com/fbsamples/f8app) Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
 - [xamarin-macios](https://github.com/xamarin/xamarin-macios) Bridges the worlds of .NET with the native APIs of Mac, iOS, tvOS, and watchOS.
 - [parse-server](https://github.com/ParsePlatform/parse-server) Parse-compatible API server module for Node/Express
+- [ello-ios](https://github.com/ello/ello-ios) Ello's open source iOS app
 
 # Reading
 
