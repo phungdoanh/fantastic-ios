@@ -412,6 +412,7 @@ Testing
 - [calabash-ios](https://github.com/calabash/calabash-ios) Calabash for iOS
 - [LayoutTest-iOS](https://github.com/linkedin/LayoutTest-iOS) Write unit tests which test the layout of a view in multiple configurations
 - [Fox](https://github.com/jeffh/Fox) Property Based Testing Library for Objective-C and Swift. QuickCheck for Apple's Platforms
+- [SwiftCheck](https://github.com/typelift/SwiftCheck) QuickCheck for Swift
 
 Utilities
 
