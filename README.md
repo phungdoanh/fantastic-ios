@@ -532,6 +532,7 @@ Path
 ## Swift
 
 - [Ranges and Intervals in Swift](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+- [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst) :star:
 
 ## Functional Swift
 
