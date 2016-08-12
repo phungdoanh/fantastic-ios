@@ -525,7 +525,8 @@ Path
 - [xamarin-macios](https://github.com/xamarin/xamarin-macios) Bridges the worlds of .NET with the native APIs of Mac, iOS, tvOS, and watchOS.
 - [parse-server](https://github.com/ParsePlatform/parse-server) Parse-compatible API server module for Node/Express
 - [ello-ios](https://github.com/ello/ello-ios) Ello's open source iOS app
-- [wire](https://github.com/wireapp/wire-ios) Wire iOS client (iPhone and iPad)
+- [wire](https://github.com/wireapp/wire-ios) Wire iOS client (iPhone and iPad) :star:
+- [simplenote-ios](https://github.com/automattic/simplenote-ios) Simplenote for iOS https://simplenote.com
 
 # Reading
 
