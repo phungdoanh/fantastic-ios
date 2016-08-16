@@ -216,6 +216,7 @@ fantastic-ios
 - [The Record](http://therecord.co)
 - [iDeveloper.t](http://blog.ideveloper.co) :star:
 - [Shared Instance](http://sharedinstance.com/) :star:
+- [Fatal Error](http://fatalerror.fm/) :star:
 
 ## Screencasts
 
