@@ -528,6 +528,7 @@ Path
 - [ello-ios](https://github.com/ello/ello-ios) Ello's open source iOS app
 - [wire](https://github.com/wireapp/wire-ios) Wire iOS client (iPhone and iPad) :star:
 - [simplenote-ios](https://github.com/automattic/simplenote-ios) Simplenote for iOS https://simplenote.com
+- [furni-ios](https://github.com/twitterdev/furni-ios) Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform
 
 # Reading
 
