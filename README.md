@@ -237,7 +237,7 @@ fantastic-ios
 - [Danger](http://danger.systems/)
 - [fastlane](https://github.com/fastlane/fastlane)
 - [SwiftLint](https://github.com/realm/SwiftLint)
-- [Injection](https://github.com/johnno1962/InjectionApp)
+- [Injection](http://johnholdsworth.com/injection.html)
 - [AppCode](https://www.jetbrains.com/objc/)
 
 Licence
