@@ -217,6 +217,7 @@ fantastic-ios
 - [simplenote-ios](https://github.com/automattic/simplenote-ios) Simplenote for iOS https://simplenote.com
 - [furni-ios](https://github.com/twitterdev/furni-ios) Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform
 - [Messenger](https://github.com/relatedcode/Messenger) This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
+- [Signal-iOS](https://github.com/WhisperSystems/Signal-iOS) A private messenger for iOS https://whispersystems.org/
 
 # Tips
 
