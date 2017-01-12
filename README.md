@@ -26,6 +26,7 @@ fantastic-ios
 	- [Screencasts](#screencasts)
 - [Open Source Projects](#open-source-projects)
 - [Tips](#tips)
+- [Tools](#tools)
 
 <!-- /TOC -->
 
@@ -226,11 +227,18 @@ fantastic-ios
 - [Using Git Hooks to prevent commiting test code](https://appventure.me/2016/04/04/prevent-accidental-test-code-commits/)
 - [gitify](https://github.com/ekonstantinidis/gitify)
 - [FLEX](https://github.com/flipboard/flex)
-- [fastlane](https://github.com/fastlane/fastlane)
 - [Overlaying application version on top of your icon](http://merowing.info/2013/03/overlaying-application-version-on-top-of-your-icon/)
 - [SwiftGen](https://github.com/AliSoftware/SwiftGen)
 - [MainThreadGuard](https://github.com/onmyway133/MainThreadGuard)
 - [SimulatorRemoteNotifications](https://github.com/acoomans/SimulatorRemoteNotifications)
+
+# Tools
+- [Reveal](https://revealapp.com/)
+- [Danger](http://danger.systems/)
+- [fastlane](https://github.com/fastlane/fastlane)
+- [SwiftLint](https://github.com/realm/SwiftLint)
+- [Injection](https://github.com/johnno1962/InjectionApp)
+- [AppCode](https://www.jetbrains.com/objc/)
 
 Licence
 --
