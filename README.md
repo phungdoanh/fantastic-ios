@@ -27,6 +27,7 @@ fantastic-ios
 - [Open Source Projects](#open-source-projects)
 - [Tips](#tips)
 - [Tools](#tools)
+- [Libraries](#libraries)
 
 <!-- /TOC -->
 
@@ -241,6 +242,12 @@ fantastic-ios
 - [SwiftLint](https://github.com/realm/SwiftLint)
 - [Injection](http://johnholdsworth.com/injection.html)
 - [AppCode](https://www.jetbrains.com/objc/)
+
+# Libraries
+- [SwiftCheck](https://github.com/typelift/SwiftCheck) QuickCheck for Swift
+- [SwiftMonkey](https://github.com/zalando/SwiftMonkey) A framework for doing randomised UI testing of iOS apps
+- [Quick](https://github.com/quick/quick) The Swift (and Objective-C) testing framework.
+- [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) Snapshot view unit tests for iOS
 
 Licence
 --
