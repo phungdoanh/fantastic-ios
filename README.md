@@ -200,6 +200,7 @@ fantastic-ios
 - [Shared Instance](http://sharedinstance.com/) :star:
 - [Fatal Error](http://fatalerror.fm/) :star:
 - [Import Foundation](https://itunes.apple.com/us/podcast/import-foundation/id1184616886?mt=2)
+- [SwiftCoders](http://swiftcoders.podbean.com/)
 
 ## Screencasts
 
