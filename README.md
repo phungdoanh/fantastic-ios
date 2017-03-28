@@ -12,7 +12,6 @@ fantastic-ios
 	- [Conferences](#conferences)
 		- [Videos](#videos)
 	- [iOS Developers](#ios-developers)
-		- [Stackoverflow](#stackoverflow)
 		- [Twitter](#twitter)
 	- [Groups](#groups)
 	- [Courses](#courses)
@@ -26,7 +25,6 @@ fantastic-ios
 	- [Screencasts](#screencasts)
 - [Tips](#tips)
 - [Tools](#tools)
-- [Libraries](#libraries)
 
 <!-- /TOC -->
 
@@ -100,13 +98,6 @@ fantastic-ios
 
 ## iOS Developers
 
-### Stackoverflow
-
-- [bbum](http://stackoverflow.com/users/25646/bbum)
-- [Brad Larson](http://stackoverflow.com/users/19679/brad-larson)
-- [http://stackoverflow.com/users/115730/dave-delong](http://stackoverflow.com/users/115730/dave-delong)
-- [jrturton](http://stackoverflow.com/users/852828/jrturton)
-
 ### Twitter
 
 - [objc.io contributors](https://www.objc.io/issues/contributors/)
@@ -114,14 +105,8 @@ fantastic-ios
 - [52 people every iOS developer should follow on Twitter](https://medium.com/ios-os-x-development/52-people-every-ios-developer-should-follow-on-twitter-25ca8915369a)
 
 ## Groups
-
-- [iOS Developer family](http://chat.stackoverflow.com/rooms/15038/ios-developer-family)
-- [NSChat](http://chat.stackoverflow.com/rooms/15942/nschat)
 - [Swifters](https://swifters.slack.com/)
 - [iOS developer](https://ios-developers.slack.com/) [register](https://ios-developers.io/)
-- [swift-lang](https://swift-lang.slack.com)  [register](http://swift-lang.schwa.io/)
-- [Swift Noobs](https://swiftnoobs.slack.com) [register](http://swiftnoobs.xyz/)
-- [Cocoaheads](https://cocoaheads.slack.com/) [register](https://docs.google.com/forms/d/1pfdNYYkim8AUYq31uDAxD3z8_PpfXdXXk2oVF0jCJiU/viewform)
 
 ## Courses
 
@@ -132,8 +117,7 @@ fantastic-ios
 - [Programming iOS 8](http://shop.oreilly.com/product/0636920034261.do)
 - [Start Developing iOS Apps Today](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1)
 - [App Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
-- [Hacking With Swift](https://www.hackingwithswift.com/)
-- [Swifty Ninja](https://galibugs.com/swifty-ninja-jr/)
+- [Hacking With Swift](https://www.hackingwithswift.com/read)
 - [iOS Programming Course](http://www.appcoda.com/ios-programming-course/)
 - [CodePath iOS](http://guides.codepath.com/ios)
 - [Swift-at-Artsy](https://github.com/orta/Swift-at-Artsy)
@@ -226,14 +210,6 @@ fantastic-ios
 - [SwiftLint](https://github.com/realm/SwiftLint)
 - [Injection](http://johnholdsworth.com/injection.html)
 - [AppCode](https://www.jetbrains.com/objc/)
-
-# Libraries
-- [SwiftCheck](https://github.com/typelift/SwiftCheck) QuickCheck for Swift
-- [SwiftMonkey](https://github.com/zalando/SwiftMonkey) A framework for doing randomised UI testing of iOS apps
-- [Quick](https://github.com/quick/quick) The Swift (and Objective-C) testing framework.
-- [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) Snapshot view unit tests for iOS
-- [bluepill](https://github.com/linkedin/bluepill) Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine 🤕
-- [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) A Mac OS X library for managing and manipulating iOS Simulators
 
 Licence
 --
