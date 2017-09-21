@@ -6,7 +6,7 @@ fantastic-ios
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Resources](#resources)
-        - [Apple Links](#apple-links)
+	- [Apple Links](#apple-links)
 	- [Books](#books)
 	- [Blogs](#blogs)
 	- [Conferences](#conferences)
@@ -16,7 +16,6 @@ fantastic-ios
 	- [Groups](#groups)
 	- [Courses](#courses)
 	- [Code Review](#code-review)
-	- [Fundamental](#fundamental)
 	- [Guide](#guide)
 		- [Guide](#guide)
 		- [Best Practices](#best-practices)
@@ -33,6 +32,11 @@ fantastic-ios
 ## Apple Links
 
 - [App Store](https://developer.apple.com/support/app-store/) :rocket:
+- [What's New in iOS](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewIniOS/Introduction/Introduction.html) :tada:
+- [What's New in Xcode](https://developer.apple.com/library/prerelease/ios/documentation/DeveloperTools/Conceptual/WhatsNewXcode/Articles/Introduction.html)
+- [Clang](http://clang.llvm.org/docs/LanguageExtensions.html)
+- [Technical Q&As](https://developer.apple.com/library/mac/navigation/index.html#topic=Technical+Q%26amp;As&section=Resource+Types)
+
 
 ## Books
 
@@ -128,13 +132,6 @@ fantastic-ios
 
 - [Eidolon Walkthrough](https://www.youtube.com/watch?v=LAAMk7oLrmg)
 - [Artsy's Emergence Full Code Review](https://www.youtube.com/watch?v=NErVWhEzIBM)
-
-## Fundamental
-
-- [What's New in iOS](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewIniOS/Introduction/Introduction.html) :tada:
-- [What's New in Xcode](https://developer.apple.com/library/prerelease/ios/documentation/DeveloperTools/Conceptual/WhatsNewXcode/Articles/Introduction.html)
-- [Clang](http://clang.llvm.org/docs/LanguageExtensions.html)
-- [Technical Q&As](https://developer.apple.com/library/mac/navigation/index.html#topic=Technical+Q%26amp;As&section=Resource+Types)
 
 ## Guide
 
