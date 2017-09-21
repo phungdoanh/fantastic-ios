@@ -5,8 +5,8 @@ fantastic-ios
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Other lists](#other-lists)
 - [Resources](#resources)
+        - [Apple Links](#apple-links)
 	- [Books](#books)
 	- [Blogs](#blogs)
 	- [Conferences](#conferences)
@@ -28,12 +28,11 @@ fantastic-ios
 
 <!-- /TOC -->
 
-# Other lists
-
-- [fantastic-ios-architecture](https://github.com/onmyway133/fantastic-ios-architecture)
-- [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation)
-
 # Resources
+
+## Apple Links
+
+- [App Store](https://developer.apple.com/support/app-store/) :rocket:
 
 ## Books
 
