@@ -154,6 +154,10 @@ fantastic-ios
 - [Fatal Error](http://fatalerror.fm/)
 - [Swift By Sundell](https://www.swiftbysundell.com/podcast) :rocket:
 
+## Talk
+
+- [Talk at Objc.io](https://talk.objc.io)
+
 ## Screencasts
 
 - [NSScreencast](http://nsscreencast.com/)
