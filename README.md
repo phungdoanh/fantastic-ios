@@ -98,6 +98,7 @@ fantastic-ios
 ### Videos
 
 - [pomo](http://www.pomo.tv/) :star:
+- [Point Free](https://www.pointfree.co/) A new weekly Swift video series exploring functional programming and more.
 
 ## iOS Developers
 
@@ -140,47 +141,18 @@ fantastic-ios
 - [2359 Media iOS Dev Guide](https://github.com/2359media/ios-dev-guide)
 - [app-launch-guide](https://github.com/adamwulf/app-launch-guide)
 - [codepath ios_guides](https://github.com/codepath/ios_guides)
-
-### Best Practices
-
 - [futurice ios-good-practices](https://github.com/futurice/ios-good-practices)
 
 ## Newsletters
 
-- [iOS Dev Weekly](https://iosdevweekly.com/)
 - [iOS Goodies](http://ios-goodies.com/)
-- [This week in Swift](https://swiftnews.curated.co/)
-- [Apple Developer news](https://developer.apple.com/news/)
-- [Swift Sandbox](http://swiftsandbox.io/)
-- [The iOS Times](http://theiostimes.com/)
 
 ## Podcasts
 
-- [Pod5](http://pod5.io)
-- [NSBrief](http://nsbrief.com) :star:
-- [Release Notes](https://releasenotes.tv/)
-- [Core Intuition](http://www.coreint.org)
-- [iPhreaksShow](https://devchat.tv/iphreaks//)
-- [Thoughtbot Build Phase](http://buildphase.fm/)
-- [Jelly Style](https://jellystyle.com/podcasts)
-- [Raywenderlich](https://www.raywenderlich.com/rwpodcast)
-- [iOSYes](http://5by5.tv/iohyes)
-- [AppStory](http://www.appstorypodcast.com/)
-- [CocoaRadio](http://feedpress.me/cocoaradio)
-- [Cocoanetics](https://www.cocoanetics.com/category/podcast/)
-- [This developer life](http://thisdeveloperslife.com)
-- [Mobile App Chat](http://appmasters.co/)
-- [Accidental Tech Podcast](http://atp.fm)
-- [The Talk Show](http://www.muleradio.net/thetalkshow)
-- [Core Intuition](http://www.coreint.org/)
-- [iOS Bytes](https://itunes.apple.com/us/podcast/ios-bytes/id779578057?mt=2)
-- [5by5 Hypercritical](http://5by5.tv/hypercritical)
-- [The Record](http://therecord.co)
-- [iDeveloper.t](http://blog.ideveloper.co) :star:
-- [Shared Instance](http://sharedinstance.com/) :star:
-- [Fatal Error](http://fatalerror.fm/) :star:
-- [Import Foundation](https://itunes.apple.com/us/podcast/import-foundation/id1184616886?mt=2)
-- [SwiftCoders](http://swiftcoders.podbean.com/)
+- [iDeveloper.t](http://blog.ideveloper.co)
+- [Shared Instance](http://sharedinstance.com/)
+- [Fatal Error](http://fatalerror.fm/)
+- [Swift By Sundell](https://www.swiftbysundell.com/podcast) :rocket:
 
 ## Screencasts
 
