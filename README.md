@@ -58,6 +58,7 @@ fantastic-ios
 - [Krzysztof Zabłocki](http://merowing.info/)
 - [Erica Sadun](http://ericasadun.com/)
 - [Swifting](https://swifting.io/)
+- [Use Your Loaf](https://useyourloaf.com/)
 
 
 ## Conferences
