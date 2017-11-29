@@ -148,6 +148,8 @@ fantastic-ios
 - [Shared Instance](http://sharedinstance.com/)
 - [Fatal Error](http://fatalerror.fm/)
 - [Swift By Sundell](https://www.swiftbysundell.com/podcast) :rocket:
+- [Inside iOS Dev](http://insideiosdev.com/)
+- [The iPhreaks Show](https://overcast.fm/itunes634022060/the-iphreaks-show)
 
 ## Talk
 
