@@ -154,6 +154,7 @@ fantastic-ios
 ## Talk
 
 - [Talk at Objc.io](https://talk.objc.io)
+- [Point Free](https://www.pointfree.co/)
 
 ## Screencasts
 
